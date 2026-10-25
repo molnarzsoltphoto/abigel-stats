@@ -1,5 +1,4 @@
 datum,ido,osszes,kesik_db,atlag_perc,max_perc,zold_db,sarga_db,narancs_db,piros_db,legtobbet_keso,legtobbet_perc,tr_osszes,tr_kesik_db,tr_kesik_pct,tr_atlag_perc,tr_max_perc,tr_legtobbet_keso,tr_legtobbet_perc
-2026-08-26,00:59,32,8,16,44,24,4,4,0,9 TRANSCARPATHIA gyorsvonat fast train,44,27,8,30,16,44,9 TRANSCARPATHIA gyorsvonat fast train,44
 2026-08-27,04:21,240,9,12,49,229,8,1,0,7 RUTHENIA gyorsvonat fast train,49,183,9,5,12,49,7 RUTHENIA gyorsvonat fast train,49
 2026-08-28,07:51,647,83,12,44,559,63,20,0,987 SCARBANTIA InterCity InterCity,44,322,72,22,12,44,987 SCARBANTIA InterCity InterCity,44
 2026-08-29,05:24,363,22,9,17,340,21,1,0,37520 személyvonat passenger train,17,235,22,9,9,17,37520 személyvonat passenger train,17
@@ -60,3 +59,4 @@ datum,ido,osszes,kesik_db,atlag_perc,max_perc,zold_db,sarga_db,narancs_db,piros_
 2026-10-23,02:13,30,2,50,94,28,1,0,1,7 RUTHENIA fast train,94,18,2,11,50,94,7 RUTHENIA fast train,94
 2026-10-24,02:07,29,1,80,80,27,0,0,1,7 RUTHENIA fast train,80,15,1,7,80,80,7 RUTHENIA fast train,80
 2026-10-25,01:50,33,3,111,248,30,1,0,2,347 DACIA - RUTHENIA EuroCity,248,20,3,15,111,248,347 DACIA - RUTHENIA EuroCity,248
+2026-10-26,01:39,50,18,40,151,32,6,8,4,H1578 HÉV,151,34,14,41,21,46,8 RUTHENIA fast train,46
