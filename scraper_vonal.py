@@ -38,7 +38,7 @@ SEGMENT_RULES = [
     (r"railjet|\brj\b|eurocity|\bec\b|euronight|\ben\b|nightjet|intercity|\bic\b", "IC"),
     (r"interregio|interrégió|\bir\b|expressz|express|fast train|gyors|\bgy\b", "IR"),
     (r"hév|\bh\d", "HÉV"),
-    (r"passenger|személy|regional|regionális|\bs\d{1,3}\b|\bg\d{2}\b|\bz\d{2}\b|suburban|elővárosi|zónázó", "személy"),
+    (r"passenger|személy|regional|regionális|euroregio|\bs\d{1,3}\b|\bg\d{2}\b|\bz\d{2}\b|suburban|elővárosi|zónázó", "személy"),
 ]
 # Végpontpárból vonalszám. Közelítő: a nagy fővonalakra, a többi üres marad.
 LINE_BY_ENDPOINTS = {
@@ -54,6 +54,18 @@ LINE_BY_ENDPOINTS = {
     frozenset(["Budapest", "Keszthely"]): "29", frozenset(["Budapest", "Balatonfüred"]): "29", frozenset(["Budapest", "Veszprém"]): "20",
     frozenset(["Budapest", "Fonyód"]): "30", frozenset(["Budapest", "Siófok"]): "30", frozenset(["Budapest", "Ceglédbercel"]): "100a",
     frozenset(["Budapest", "Monor"]): "100a", frozenset(["Budapest", "Cegléd"]): "100a",
+    frozenset(["Győr", "Sopron"]): "8", frozenset(["Győr", "Hegyeshalom"]): "1", frozenset(["Sopron", "Szentgotthárd"]): "21", frozenset(["Szombathely", "Celldömölk"]): "20",
+    frozenset(["Kiskunhalas", "Baja"]): "154", frozenset(["Kecskemét", "Kiskunhalas"]): "152", frozenset(["Budapest", "Dunaújváros"]): "42", frozenset(["Budapest", "Martonvásár"]): "30a",
+    frozenset(["Budapest", "Gödöllő"]): "80a", frozenset(["Budapest", "Sülysáp"]): "120a", frozenset(["Budapest", "Eger"]): "87", frozenset(["Budapest", "Gyöngyös"]): "85",
+    frozenset(["Budapest", "Hidasnémeti"]): "90", frozenset(["Budapest", "Zalaegerszeg"]): "25", frozenset(["Budapest", "Oroszlány"]): "12", frozenset(["Kőbánya", "Lajosmizse"]): "142",
+    frozenset(["Budapest", "Kosice"]): "90", frozenset(["Budapest", "Kassa"]): "90", frozenset(["Budapest", "Balatonszentgyörgy"]): "30", frozenset(["Győr", "Keszthely"]): "26",
+    frozenset(["Győr", "Veszprém"]): "11", frozenset(["Dombóvár", "Gyékényes"]): "41", frozenset(["Baja", "Székesfehérvár"]): "154", frozenset(["Tapolca", "Kaposvár"]): "36",
+    frozenset(["Pécs", "Tapolca"]): "36", frozenset(["Pécs", "Szombathely"]): "17", frozenset(["Hatvan", "Somoskőújfalu"]): "81", frozenset(["Szeged", "Békéscsaba"]): "135",
+    frozenset(["Mezőhegyes", "Mezőtúr"]): "125", frozenset(["Szolnok", "Szentes"]): "130", frozenset(["Füzesabony", "Debrecen"]): "108", frozenset(["Pilisvörösvár", "Rákos"]): "2",
+    frozenset(["Nyíregyháza", "Záhony"]): "100", frozenset(["Debrecen", "Tiszalök"]): "109", frozenset(["Békéscsaba", "Vésztő"]): "128", frozenset(["Tiborszállás", "Mátészalka"]): "115",
+    frozenset(["Budapest", "Kiskunhalas"]): "150", frozenset(["Szolnok", "Debrecen"]): "100", frozenset(["Miskolc", "Nyíregyháza"]): "80", frozenset(["Budapest", "Pápa"]): "10",
+    frozenset(["Székesfehérvár", "Szombathely"]): "20", frozenset(["Székesfehérvár", "Komárom"]): "5", frozenset(["Dombóvár", "Pécs"]): "40", frozenset(["Pécs", "Villány"]): "65",
+    frozenset(["Pécs", "Nagykanizsa"]): "60", frozenset(["Nagykanizsa", "Szombathely"]): "17", frozenset(["Szolnok", "Békéscsaba"]): "120", frozenset(["Kecskemét", "Szeged"]): "140",
 }
 
 
@@ -105,7 +117,10 @@ def record(v, now):
     first = ((times[0].get("stop") or {}).get("name") if times else "") or ""
     last = ((times[-1].get("stop") or {}).get("name") if times else "") or trip.get("tripHeadsign") or ""
     a, b = city(first), city(last)
-    relation = f"{a} – {b}" if a and b and a != b else (route.get("longName") or a or b or "ismeretlen")
+    if not first and not last:  # nincs megállólista: a név „IC TOKAJ” jellegű, viszonylat ismeretlen
+        a = b = ""
+    ends = sorted([a, b], key=lambda x: (x != "Budapest", x))  # irányfüggetlen: Budapest elöl, különben ABC
+    relation = f"{ends[0]} – {ends[1]}" if a and b and a != b else (route.get("longName") or a or b or "ismeretlen")
     return {
         "datum": now.strftime("%Y-%m-%d"), "ido": now.strftime("%H:%M"), "vonatszam": train_number(name), "nev": name[:60],
         "szegmens": "HÉV" if (route.get("mode") or "").upper() == "SUBWAY" and "hév" in name.lower() else segment(name),

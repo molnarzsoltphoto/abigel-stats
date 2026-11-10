@@ -83,11 +83,20 @@ class Tables(HTMLParser):
                 self.recent_text.append(t)
 
 
+def route_from_desc(desc):
+    m = re.search(r"\b([A-ZÁÉÍÓÖŐÚÜŰ][\w.-]+(?:\s[\w.-]+){0,2})\s+(?:–|-)\s+([A-ZÁÉÍÓÖŐÚÜŰ][\w.-]+(?:\s[\w.-]+){0,2})(?:\s+(?:–|-)\s+([A-ZÁÉÍÓÖŐÚÜŰ][\w.-]+))?\s+(?:vasútvonal|vonal|között)", desc or "")
+    if m:
+        return " – ".join(x for x in m.groups() if x)
+    m = re.search(r"\b([A-ZÁÉÍÓÖŐÚÜŰ][\w.-]+)\s+és\s+([A-ZÁÉÍÓÖŐÚÜŰ][\w.-]+)\s+között", desc or "")
+    return f"{m.group(1)} – {m.group(2)}" if m else ""
+
+
 def parse(html_text):
     p = Tables()
     p.feed(html_text)
     out = []
     for t in p.tables:
+        per_row_heading = len(t["rows"]) <= 8  # kis táblánál a tábla előtti cím a viszonylat; nagy, összevont táblánál nem
         for row in t["rows"]:
             if len(row) < 3 or "érvényesség" in " ".join(c["text"] for c in row).lower():
                 continue
@@ -95,9 +104,10 @@ def parse(html_text):
             desc_cell = row[3] if len(row) > 3 else row[-1]
             if not line or not (hu_date(start) or hu_date(end)):
                 continue
+            desc = desc_cell["text"]
             out.append({
-                "line": line, "route": t["heading"].strip("* "), "startRaw": start, "endRaw": end,
-                "start": hu_date(start), "end": hu_date(end), "desc": desc_cell["text"], "link": desc_cell["href"] or "",
+                "line": line, "route": (t["heading"].strip("* ") if per_row_heading else route_from_desc(desc)) or "", "startRaw": start, "endRaw": end,
+                "start": hu_date(start), "end": hu_date(end), "desc": desc.replace("Térképes információ a vágányzárról", "").strip(), "link": desc_cell["href"] or "",
             })
     return out
 
