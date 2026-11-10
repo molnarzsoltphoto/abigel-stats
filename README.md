@@ -37,3 +37,7 @@ jobs:
 ## Menetrendszerűség vonalanként (új, 2026-11)
 
 `scraper_vonal.py` 20 percenként fut (`.github/workflows/pontossag.yml`), minden közlekedő vonatról egy sort ír a `data/futasok/ÉÉÉÉ-HH.csv` fájlba, és frissíti a `data/pontossag.json` összesítőt (nap × viszonylat × szegmens: vonatszám, menetrendszerű arány ≤5 perc, átlagos és 90. percentilis késés). Az Abigél Termékfejlesztés → Menetrendszerűség füle ezt olvassa. Korlátok: a késés a vonat utolsó megfigyelt értéke a napon, nem a végállomási; a szegmens (IC, IR, személy, HÉV) és a vonalszám a vonatnévből és a végpontokból becsült. Adat a bekapcsolás napjától gyűlik, visszamenőleg nincs.
+
+## Vágányzár-lista (új, 2026-11)
+
+`scraper_vaganyzar.py` 6 óránként letölti a mavcsoport.hu vágányzár-oldalát, és `data/vaganyzar.json`-ba írja a táblázatokat (vonal, viszonylat, kezdet, vég, leírás, link). A Havaria térkép és az Abigél Vágányzár oldal elsőként ezt olvassa, és csak akkor esik vissza a böngészős CORS-proxykra, ha ez nem érhető el. Ha az oldal szerkezete változik és 3-nál kevesebb tétel jön ki, a futás hibával leáll, és az előző JSON marad.
