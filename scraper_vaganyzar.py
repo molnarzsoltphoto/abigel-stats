@@ -95,8 +95,10 @@ def parse(html_text):
     p = Tables()
     p.feed(html_text)
     out = []
+    headings = [t["heading"] for t in p.tables]
     for t in p.tables:
-        per_row_heading = len(t["rows"]) <= 8  # kis táblánál a tábla előtti cím a viszonylat; nagy, összevont táblánál nem
+        # a tábla előtti cím csak akkor viszonylat, ha táblánként más; ha minden táblánál ugyanaz ragadt be, a leírásból vesszük
+        per_row_heading = headings.count(t["heading"]) == 1 and len(t["rows"]) <= 8
         for row in t["rows"]:
             if len(row) < 3 or "érvényesség" in " ".join(c["text"] for c in row).lower():
                 continue
@@ -106,7 +108,7 @@ def parse(html_text):
                 continue
             desc = desc_cell["text"]
             out.append({
-                "line": line, "route": (t["heading"].strip("* ") if per_row_heading else route_from_desc(desc)) or "", "startRaw": start, "endRaw": end,
+                "line": line, "route": route_from_desc(desc) or (t["heading"].strip("* ") if per_row_heading else ""), "startRaw": start, "endRaw": end,
                 "start": hu_date(start), "end": hu_date(end), "desc": desc.replace("Térképes információ a vágányzárról", "").strip(), "link": desc_cell["href"] or "",
             })
     return out
