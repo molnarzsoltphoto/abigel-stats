@@ -1,0 +1,676 @@
+{
+ "frissitve": "2026-11-10T09:47:58.777662+01:00",
+ "forras": "https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vaganyzar",
+ "tetelek": [
+  {
+   "line": "0",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. március 16.",
+   "endRaw": "2026. december 7.",
+   "start": "2026-03-16",
+   "end": "2026-12-07",
+   "desc": "A Németországban végzett pályafelújítási munkák miatt a HUNGÁRIA Railjet vonat 2026. március 16-tól december 7-ig, hétfői napokon, 2026. szeptember 30-tól október 6-ig naponta rövidített útvonalon közlekedik. / Due to track reconstruction works in Germany HUNGARIA Railjet trains run on shortened route on Mondays from 16 March to 7 December 2026 and daily from 30 September to 6 October 2026.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/10-56_tajekoztato_decin-berlin_260930-1006-1207_0.pdf"
+  },
+  {
+   "line": "0",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. június 26.",
+   "endRaw": "2026. december 31.",
+   "start": "2026-06-26",
+   "end": "2026-12-31",
+   "desc": "További intézkedésig a 366/367 HARGITA InterCity-vonatok Budapest és Marosvásárhely közötti közvetlen kocsijai nem közlekednek. / Until further notice the direct carriages Between Budapest and Târgu Mureș of the HARGITA 366/367 InterCity trains are cancelled.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/10-40_tajekoztato_ic366-367_marosvasarhely_0.pdf"
+  },
+  {
+   "line": "0",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. október 5.",
+   "endRaw": "2026. december 12.",
+   "start": "2026-10-05",
+   "end": "2026-12-12",
+   "desc": "A Szlovákiában végzett karbantartás miatt egyes HERNÁD InterCity (184, 186, 188, 189, 191, 193) vonatok helyett Hidasnémeti és Kassa között vonatpótló autóbuszok közlekednek. / Due to track reconstruction works in Slovakia replacement buses will operate between Hidasnémeti and Košice instead of certain HERNÁD InterCity (184, 186, 188, 189, 191, 193) trains.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/tajekoztato_10-58_261005-1212_hidasnemeti-kassa_a4.pdf"
+  },
+  {
+   "line": "0",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. október 15.",
+   "endRaw": "2026. december 12.",
+   "start": "2026-10-15",
+   "end": "2026-12-12",
+   "desc": "A Svájcban végzett pályafelújítási munkák miatt a Zürichbe/Zürichből közlekedő nemzetközi vonatok módosított menetrend szerint vagy rövidített útvonalon közlekednek. Due to track reconstruction works in Switzerland, the international trains to/from Zürich run according to modified timetable or on a shortened route.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/tajekoztato_10-60_sargansmod.pdf"
+  },
+  {
+   "line": "0",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 2.",
+   "endRaw": "2026. december 12.",
+   "start": "2026-11-02",
+   "end": "2026-12-12",
+   "desc": "Magyarország és Ukrajna között az alábbi vonatok közlekednek. November 2-től a kiemelt érkezési időpontok változnak. The following trains operate between Hungary and Ukraine. From 2 November, the designated arrival times will change. Поїзди, що курсують між Угорщиною та Україною. З 2 листопада змінюються виділений часи прибуття.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/tajekoztato_chop_1212-ig_ukr_a3_261102.pdf"
+  },
+  {
+   "line": "0",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 18.",
+   "endRaw": "2026. november 22.",
+   "start": "2026-11-18",
+   "end": "2026-11-22",
+   "desc": "Az Ausztriában végzett pályafelújítási munkák miatt a Budapest és Zürich között közlekedő Railjet Xpress vonatok helyett Ötztal és Sargans között vonatpótló autóbuszok közlekednek, az éjszakai vonatok kerülő útirányon át közlekednek. Due to track reconstruction works in Austria, replacement buses operate between Ötztal and Sargans instead of Railjet Xpress trains. The night trains run on a diverted route.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/10-63_tajekoztato_allgau-otztal_261118-22.pdf"
+  },
+  {
+   "line": "1",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. szeptember 23.",
+   "endRaw": "2026. december 12.",
+   "start": "2026-09-23",
+   "end": "2026-12-12",
+   "desc": "Térképes információ a vágányzárrólA Déli Körvasút fejlesztése miatt Budapest-Kelenföld és Budapest-Keleti / Kőbánya-Kispest között a vonatok menetrendje jelentősen változik. Due to the development of the Southern Circular Railway, train schedules between Budapest-Kelenföld and Budapest-Keleti / Kőbánya-Kispest, change significantly.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_001_030a_030_040a_trkp_deli_kizaras_okt10-11_a4.pdf"
+  },
+  {
+   "line": "1",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 16.",
+   "endRaw": "2026. november 20.",
+   "start": "2026-11-16",
+   "end": "2026-11-20",
+   "desc": "Karbantartási munkák miatt egyes vonatok módosított menetrend szerint közlekednek. Érintett vasútvonal: Budapest – Győr – Hegyeshalom. / Due to reconstruction works, certain trains run according to a modified timetable. Affected railway line: Budapest – Győr – Hegyeshalom.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v2_hirdetmeny_1_lebeny-mosonszentmiklos_-_kimle-karolyhaza_1116-1120_v1109.pdf"
+  },
+  {
+   "line": "4",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 14.",
+   "endRaw": "2026. november 15.",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "desc": "Térképes információ a vágányzárrólKarbantartási munkák miatt az S74-es személyvonatok helyett Esztergom – Almásfüzitő között MÁVBUSZ-ok közlekednek. Due to reconstruction works, MÁVBUSZ services operate between Esztergom – Almásfüzitő instead of S74 local trains.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_4_mh_trkp_tokod_sutto_a4_web.pdf"
+  },
+  {
+   "line": "5",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 7.",
+   "endRaw": "2026. november 10.",
+   "start": "2026-11-07",
+   "end": "2026-11-10",
+   "desc": "Térképes információ a vágányzárrólKarbantartási munkák miatt Székesfehérvár és Komárom között valamennyi vonat helyett MÁVBUSZ-ok közlekednek. Due to reconstruction works, MÁVBUSZ services operate between Székesfehérvár and Komárom instead of all trains.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_5_szekesfehervar_komarom_web.pdf"
+  },
+  {
+   "line": "8",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. szeptember 23.",
+   "endRaw": "2026. december 12.",
+   "start": "2026-09-23",
+   "end": "2026-12-12",
+   "desc": "Térképes információ a vágányzárrólA Déli Körvasút fejlesztése miatt Budapest-Kelenföld és Budapest-Keleti / Kőbánya-Kispest között a vonatok menetrendje jelentősen változik. Due to the development of the Southern Circular Railway, train schedules between Budapest-Kelenföld and Budapest-Keleti / Kőbánya-Kispest, change significantly.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_001_030a_030_040a_trkp_deli_kizaras_okt10-11_a4_2.pdf"
+  },
+  {
+   "line": "16",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. szeptember 23.",
+   "endRaw": "2026. december 12.",
+   "start": "2026-09-23",
+   "end": "2026-12-12",
+   "desc": "Térképes információ a vágányzárrólA Déli Körvasút fejlesztése miatt Budapest-Kelenföld és Budapest-Keleti / Kőbánya-Kispest között a vonatok menetrendje jelentősen változik. Due to the development of the Southern Circular Railway, train schedules between Budapest-Kelenföld and Budapest-Keleti / Kőbánya-Kispest, change significantly.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_001_030a_030_040a_trkp_deli_kizaras_okt10-11_a4_5.pdf"
+  },
+  {
+   "line": "17",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 9.",
+   "endRaw": "2026. november 28.",
+   "start": "2026-11-09",
+   "end": "2026-11-28",
+   "desc": "A Szombathely – Zalaszentiván vasútvonalon végzett pályakarbantartási munkák miatt a hirdetményen szereplő vonatok helyett a fejlécükben megjelölt napokon Egervár-Vasboldogasszony – Zalaegerszeg állomások között vonatpótló autóbuszok közlekednek a sárga alapon megjelölt menetrend szerint. Zalaszentlőrinc - Zalaszentiván állomások között a kék alapon megjelölt menetrend szerint összekötő járatok közlekednek.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/vaganyzari_hirdetmeny_2026.11.09-11.28_egervar-vasboldogasszony-zalaegerszeg_vaganyzar_1725_vonali_hirdetmenye.pdf"
+  },
+  {
+   "line": "21",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 25.",
+   "endRaw": "2026. november 26.",
+   "start": "2026-11-25",
+   "end": "2026-11-26",
+   "desc": "A Szombathely – Szentgotthárd vasútvonalon végzett pályakarbantartási munkák miatt a hirdetményen szereplő vonatok helyett Körmend – Szentgotthárd állomások között vonatpótló autóbuszok közlekednek a sárga alapon megjelölt menetrend szerint.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/vaganyzari_hirdetmeny_2026.11.25-11-26_kormend-szentgotthard_vaganyzar_21_vonali_hirdetmenye.pdf"
+  },
+  {
+   "line": "25",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 9.",
+   "endRaw": "2026. november 28.",
+   "start": "2026-11-09",
+   "end": "2026-11-28",
+   "desc": "A Szombathely – Zalaszentiván vasútvonalon végzett pályakarbantartási munkák miatt a hirdetményen szereplő vonatok helyett a fejlécükben megjelölt napokon Egervár-Vasboldogasszony – Zalaegerszeg állomások között vonatpótló autóbuszok közlekednek a sárga alapon megjelölt menetrend szerint. Zalaszentlőrinc - Zalaszentiván állomások között a kék alapon megjelölt menetrend szerint összekötő járatok közlekednek.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/vaganyzari_hirdetmeny_2026.11.09-11.28_egervar-vasboldogasszony-zalaegerszeg_vaganyzar_1725_vonali_hirdetmenye.pdf"
+  },
+  {
+   "line": "26",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 16.",
+   "endRaw": "2026. november 20.",
+   "start": "2026-11-16",
+   "end": "2026-11-20",
+   "desc": "Karbantartási munkák miatt a dél-balatoni fővonalon a vonatok helyett Siófok – Szántód között MÁVBUSZ-ok közlekednek, valamint egyes vonatok menetrendje módosul. Due to reconstruction works, MÁVBUSZ services operate between Siófok and Szántód on the South-Balaton main line instead of trains, and certain trains run according to a modified timetable.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_30_siofok-szantod_1116-1121.pdf"
+  },
+  {
+   "line": "29",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 21.",
+   "endRaw": "2026. december 6.",
+   "start": "2026-11-21",
+   "end": "2026-12-06",
+   "desc": "Karbantartási munkák miatt a székesfehérvári vonalon napközben egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Székesfehérvár line operate according to a modified timetable during the daytime.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v2_hirdetmeny_29_tarnok_-_martonvasar_1121-1206.pdf"
+  },
+  {
+   "line": "30a",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. szeptember 21.",
+   "endRaw": "2026. december 12.",
+   "start": "2026-09-21",
+   "end": "2026-12-12",
+   "desc": "Térképes információ a vágányzárrólA Déli Körvasút fejlesztése miatt Budapest-Kelenföld és Budapest-Keleti / Kőbánya-Kispest között a vonatok menetrendje jelentősen változik. Due to the development of the Southern Circular Railway, train schedules between Budapest-Kelenföld and Budapest-Keleti / Kőbánya-Kispest, change significantly.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_001_030a_030_040a_trkp_deli_kizaras_okt10-11_a4_9.pdf"
+  },
+  {
+   "line": "30a",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 8.",
+   "endRaw": "2026. november 15.",
+   "start": "2026-11-08",
+   "end": "2026-11-15",
+   "desc": "Karbantartási munkák miatt a székesfehérvári vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains run according to a modified timetable on the Székesfehérvár line.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_30a_nagyteteny_-_tarnok_11.08_-_11.15.pdf"
+  },
+  {
+   "line": "30a",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 21.",
+   "endRaw": "2026. december 6.",
+   "start": "2026-11-21",
+   "end": "2026-12-06",
+   "desc": "Karbantartási munkák miatt a székesfehérvári vonalon napközben egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Székesfehérvár line operate according to a modified timetable during the daytime.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_30a_tarnok_-_martonvasar_1121-1206.pdf"
+  },
+  {
+   "line": "30",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 3.",
+   "endRaw": "2026. november 13.",
+   "start": "2026-11-03",
+   "end": "2026-11-13",
+   "desc": "Karbantartási munkák miatt valamennyi vonat helyett Balatonszentgyörgy – Nagykanizsa között MÁVBUSZ-ok közlekednek. Due to track reconstruction works, MÁVBUSZ services operate between Balatonszentgyörgy and Nagykanizsa instead of trains.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_30_balatonszentgyorgy-nagykanizsa_1103-1113.pdf"
+  },
+  {
+   "line": "30",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 14.",
+   "endRaw": "2026. november 15.",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "desc": "Karbantartási munkák miatt a székesfehérvári vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains run according to a modified timetable on the Székesfehérvár line.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v2_hirdetmeny_30_nagyteteny_-_tarnok_11.14_-_11.15.pdf"
+  },
+  {
+   "line": "30",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 16.",
+   "endRaw": "2026. november 20.",
+   "start": "2026-11-16",
+   "end": "2026-11-20",
+   "desc": "Karbantartási munkák miatt a dél-balatoni fővonalon a vonatok helyett Siófok – Szántód között MÁVBUSZ-ok közlekednek, valamint egyes vonatok menetrendje módosul. Due to reconstruction works, MÁVBUSZ services operate between Siófok and Szántód on the South-Balaton main line instead of trains, and certain trains run according to a modified timetable.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_30_siofok-szantod_1116-1121.pdf"
+  },
+  {
+   "line": "30",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 21.",
+   "endRaw": "2026. december 6.",
+   "start": "2026-11-21",
+   "end": "2026-12-06",
+   "desc": "Karbantartási munkák miatt a székesfehérvári vonalon napközben egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Székesfehérvár line operate according to a modified timetable during the daytime.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v3_hirdetmeny_30_tarnok_-_martonvasar_1121-1206.pdf"
+  },
+  {
+   "line": "40a",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. szeptember 21.",
+   "endRaw": "2026. december 12.",
+   "start": "2026-09-21",
+   "end": "2026-12-12",
+   "desc": "Térképes információ a vágányzárrólA Déli Körvasút fejlesztése miatt Budapest-Kelenföld és Budapest-Keleti / Kőbánya-Kispest között a vonatok menetrendje jelentősen változik. Due to the development of the Southern Circular Railway, train schedules between Budapest-Kelenföld and Budapest-Keleti / Kőbánya-Kispest, change significantly.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_001_030a_030_040a_trkp_deli_kizaras_okt10-11_a4_13.pdf"
+  },
+  {
+   "line": "40",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. október 3.",
+   "endRaw": "2026. december 12.",
+   "start": "2026-10-03",
+   "end": "2026-12-12",
+   "desc": "Térképes információ a vágányzárrólA Déli Körvasút fejlesztése miatt Budapest-Kelenföld és Budapest-Keleti / Kőbánya-Kispest között a vonatok menetrendje jelentősen változik. Due to the development of the Southern Circular Railway, train schedules between Budapest-Kelenföld and Budapest-Keleti / Kőbánya-Kispest, change significantly.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_001_030a_030_040a_trkp_deli_kizaras_okt10-11_a4_15.pdf"
+  },
+  {
+   "line": "40",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 2.",
+   "endRaw": "2026. november 11.",
+   "start": "2026-11-02",
+   "end": "2026-11-11",
+   "desc": "Karbantartás miatt egyes éjszakai vonatok menetrendje módosul, változó szakaszokon MÁVBUSZ-ok közlekednek. Due to reconstruction works, certain night trains run according to a modified timetable. MÁVBUSZ services operate on various sections.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_40_dombovar-szentlorinc_1102-1111.pdf"
+  },
+  {
+   "line": "40",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 11.",
+   "endRaw": "2026. november 14.",
+   "start": "2026-11-11",
+   "end": "2026-11-14",
+   "desc": "Térképes információ a vágányzárrólKarbantartási munkák miatt egyes vonatok menetrendje módosul, egyes vonatok helyett MÁVBUSZ-ok közlekednek. Due to reconstruction works, certain trains run according to a modified timetable. MÁVBUSZ services operate instead of certain trains.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/040_mh_trkp_bukkosd_pecs_a4.pdf"
+  },
+  {
+   "line": "41",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. szeptember 21.",
+   "endRaw": "2026. december 12.",
+   "start": "2026-09-21",
+   "end": "2026-12-12",
+   "desc": "A Déli Körvasút fejlesztése miatt Budapest-Kelenföld és Budapest-Keleti / Kőbánya-Kispest között a vonatok menetrendje jelentősen változik. Due to the development of the Southern Circular Railway, train schedules between Budapest-Kelenföld and Budapest-Keleti / Kőbánya-Kispest, change significantly.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v9_hirdetmeny_41_ferencvaros_-_budapest-kelenfold_0921_-_1212.pdf"
+  },
+  {
+   "line": "42",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. szeptember 21.",
+   "endRaw": "2026. december 12.",
+   "start": "2026-09-21",
+   "end": "2026-12-12",
+   "desc": "Térképes információ a vágányzárrólA Déli Körvasút fejlesztése miatt Budapest-Kelenföld és Budapest-Keleti / Kőbánya-Kispest között a vonatok menetrendje jelentősen változik. Due to the development of the Southern Circular Railway, train schedules between Budapest-Kelenföld and Budapest-Keleti / Kőbánya-Kispest, change significantly.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_001_030a_030_040a_trkp_deli_kizaras_okt10-11_a4_17.pdf"
+  },
+  {
+   "line": "47",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 6.",
+   "endRaw": "2026. november 11.",
+   "start": "2026-11-06",
+   "end": "2026-11-11",
+   "desc": "Karbantartási munkák miatt egyes hajnali személyvonatok helyett Dombóvár és Komló, illetve Komló és Sásd között MÁVBUSZ-ok közlekednek. Due to reconstruction works, MÁVBUSZ services operate instead of certain early-morning local trains between Dombóvár and Komló, and between Komló and Sásd.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v2_hirdetmeny_47_dombovar-szentlorinc_1102-1111_v19.pdf"
+  },
+  {
+   "line": "47",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 11.",
+   "endRaw": "2026. november 14.",
+   "start": "2026-11-11",
+   "end": "2026-11-14",
+   "desc": "Karbantartási munkák miatt egyes vonatok menetrendje módosul, egyes vonatok helyett MÁVBUSZ-ok közlekednek. Due to reconstruction works, certain trains run according to a modified timetable. MÁVBUSZ services operate instead of certain trains.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v2_hirdetmeny_47_bukkosd-pecs_1111-1114.pdf"
+  },
+  {
+   "line": "60",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 6.",
+   "endRaw": "2026. november 10.",
+   "start": "2026-11-06",
+   "end": "2026-11-10",
+   "desc": "Karbantartási munkák miatt a Pécs – Barcs vonalon egy esti és egy hajnali vonat menetrendje módosul, helyettük Darány – Szigetvár között MÁVBUSZ-ok közlekednek. Due to maintenance works on the Pécs – Barcs line, a night train and an early morning train run according to a modified timetable. MÁVBUSZ services operate instead of trains between Darány – Szigetvár.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_60_darany-szigetvar_1106-1110.pdf"
+  },
+  {
+   "line": "60",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 11.",
+   "endRaw": "2026. november 14.",
+   "start": "2026-11-11",
+   "end": "2026-11-14",
+   "desc": "Karbantartási munkák miatt egyes vonatok menetrendje módosul, egyes vonatok helyett MÁVBUSZ-ok közlekednek. Due to reconstruction works, certain trains run according to a modified timetable. MÁVBUSZ services operate instead of certain trains.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v3_hirdetmeny_60_bukkosd-pecs_1111-1114.pdf"
+  },
+  {
+   "line": "61",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 11.",
+   "endRaw": "2026. november 14.",
+   "start": "2026-11-11",
+   "end": "2026-11-14",
+   "desc": "Karbantartási munkák miatt egyes vonatok menetrendje módosul. Due to reconstrucion works, certain trains run according to a modified timetable. Érintett vasútvonalak / Affected railway lines: Szentlőrinc – Sellye, Pécs – Villány – Magyarbóly, Villány – Mohács",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v4_hirdetmeny_61_bukkosd-pecs_1111-1114.pdf"
+  },
+  {
+   "line": "65",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 11.",
+   "endRaw": "2026. november 14.",
+   "start": "2026-11-11",
+   "end": "2026-11-14",
+   "desc": "Karbantartási munkák miatt egyes vonatok menetrendje módosul. Due to reconstrucion works, certain trains run according to a modified timetable. Érintett vasútvonalak / Affected railway lines: Szentlőrinc – Sellye, Pécs – Villány – Magyarbóly, Villány – Mohács",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v5_hirdetmeny_65-66_bukkosd-pecs_1111-1114.pdf"
+  },
+  {
+   "line": "66",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 11.",
+   "endRaw": "2026. november 14.",
+   "start": "2026-11-11",
+   "end": "2026-11-14",
+   "desc": "Karbantartási munkák miatt egyes vonatok menetrendje módosul. Due to reconstrucion works, certain trains run according to a modified timetable. Érintett vasútvonalak / Affected railway lines: Szentlőrinc – Sellye, Pécs – Villány – Magyarbóly, Villány – Mohács",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v5_hirdetmeny_65-66_bukkosd-pecs_1111-1114.pdf"
+  },
+  {
+   "line": "80a",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 4.",
+   "endRaw": "2026. december 12.",
+   "start": "2026-11-04",
+   "end": "2026-12-12",
+   "desc": "Karbantartás miatt a Budapest – Újszász – Szolnok – Békéscsaba vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Újszász – Szolnok – Békéscsaba line run according to a modified timetable.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v7_hirdetmeny_80a_kobanya-kispest_1104-1212.pdf"
+  },
+  {
+   "line": "80a",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 14.",
+   "endRaw": "2026. november 15.",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "desc": "Karbantartási munkák miatt a Budapest – Gödöllő vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains run according to modified timetable on the Budapest – Gödöllő line.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v3_hirdetmeny_80a_rakoshegy_-_maglod_1114-1115.pdf"
+  },
+  {
+   "line": "80",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 9.",
+   "endRaw": "2026. november 25.",
+   "start": "2026-11-09",
+   "end": "2026-11-25",
+   "desc": "Karbantartás miatt a miskolci fővonalon egyes vonatok menetrendje módosul, valamint Füzesabony - Eger között egyes hajnali és éjszakai vonatok helyett MÁVBUSZ-ok közlekednek. Due to reconstruction works, certain trains on the Miskolc main line run according to a modified timetable. MÁVBUSZ services operate between Füzesabony and Eger instead of certain early-morning and late-night trains.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_80_87a_fuzesabony-mezokovesd_2026.11.09-11.25_v1029.pdf"
+  },
+  {
+   "line": "87a",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 9.",
+   "endRaw": "2026. november 25.",
+   "start": "2026-11-09",
+   "end": "2026-11-25",
+   "desc": "Karbantartás miatt a miskolci fővonalon egyes vonatok menetrendje módosul, valamint Füzesabony - Eger között egyes hajnali és éjszakai vonatok helyett MÁVBUSZ-ok közlekednek. Due to reconstruction works, certain trains on the Miskolc main line run according to a modified timetable. MÁVBUSZ services operate between Füzesabony and Eger instead of certain early-morning and late-night trains.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_80_87a_fuzesabony-mezokovesd_2026.11.09-11.25_v1029_0.pdf"
+  },
+  {
+   "line": "100a",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 4.",
+   "endRaw": "2026. december 1.",
+   "start": "2026-11-04",
+   "end": "2026-12-01",
+   "desc": "Karbantartás miatt a Budapest – Cegléd – Záhony és a Budapest – Cegléd – Szeged vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Cegléd – Záhony and on the a Budapest – Cegléd – Szeged lines run according to a modified timetable.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_100a_kobanya-kispest_1104-1201_v1027.pdf"
+  },
+  {
+   "line": "100a",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 21.",
+   "endRaw": "2026. november 29.",
+   "start": "2026-11-21",
+   "end": "2026-11-29",
+   "desc": "Karbantartás miatt a Budapest – Cegléd – Szolnok vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Cegléd – Szolnok line run according to a modified timetable.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_100a_kobanya-kispest_-_pestszentlorinc_1121-1129.pdf"
+  },
+  {
+   "line": "100",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 4.",
+   "endRaw": "2026. december 1.",
+   "start": "2026-11-04",
+   "end": "2026-12-01",
+   "desc": "Karbantartás miatt a Budapest – Cegléd – Záhony és a Budapest – Cegléd – Szeged vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Cegléd – Záhony and on the a Budapest – Cegléd – Szeged lines run according to a modified timetable.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v2_hirdetmeny_100_kobanya-kispest_1104-1201.pdf"
+  },
+  {
+   "line": "100",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 21.",
+   "endRaw": "2026. november 29.",
+   "start": "2026-11-21",
+   "end": "2026-11-29",
+   "desc": "Karbantartás miatt a Budapest – Cegléd – Szolnok vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Cegléd – Szolnok line run according to a modified timetable.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v2_hirdetmeny_100_kobanya-kispest_-_pestszentlorinc_1121-1129.pdf"
+  },
+  {
+   "line": "106",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2025. október 19.",
+   "endRaw": "2026. december 31.",
+   "start": "2025-10-19",
+   "end": "2026-12-31",
+   "desc": "Új nyomvonalat kap a 106-os vasútvonal: az új pálya megépítéséig Debrecen–Nagykereki között pótlóbuszok szállítják az utasokat. The 106 railway line will get a new route: until the new track is built, replacement buses operate between Debrecen and Nagykereki.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/hirdetmeny_106_20251029_jav20260507.pdf"
+  },
+  {
+   "line": "108",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 9.",
+   "endRaw": "2026. november 25.",
+   "start": "2026-11-09",
+   "end": "2026-11-25",
+   "desc": "Karbantartás miatt a miskolci fővonalon egyes vonatok menetrendje módosul, valamint Füzesabony - Eger között egyes hajnali és éjszakai vonatok helyett MÁVBUSZ-ok közlekednek. Due to reconstruction works, certain trains on the Miskolc main line run according to a modified timetable. MÁVBUSZ services operate between Füzesabony and Eger instead of certain early-morning and late-night trains.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v2_hirdetmeny_108_fuzesabony-mezokovesd_2026.11.09-11.25_v1029.pdf"
+  },
+  {
+   "line": "110",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 4.",
+   "endRaw": "2026. december 12.",
+   "start": "2026-11-04",
+   "end": "2026-12-12",
+   "desc": "Karbantartás miatt a Budapest – Újszász – Szolnok – Békéscsaba vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Újszász – Szolnok – Békéscsaba line run according to a modified timetable.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v8_hirdetmeny_110_kobanya-kispest_1104-1212.pdf"
+  },
+  {
+   "line": "120a",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 4.",
+   "endRaw": "2026. december 12.",
+   "start": "2026-11-04",
+   "end": "2026-12-12",
+   "desc": "Karbantartás miatt a Budapest – Újszász – Szolnok – Békéscsaba vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Újszász – Szolnok – Békéscsaba line run according to a modified timetable.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v5_hirdetmeny_120a_kobanya-kispest_1104-1212.pdf"
+  },
+  {
+   "line": "120a",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 13.",
+   "endRaw": "2026. november 16.",
+   "start": "2026-11-13",
+   "end": "2026-11-16",
+   "desc": "Karbantartási munkák miatt a Budapest – Újszász – Szolnok – Lőkösháza vonalon számos vonat módosított menetrend szerint közlekedik. Due to reconstruction works, numerous trains run according to modified timetable on the Budapest – Újszász – Szolnok – Lőkösháza line.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_120a_rakoshegy_-_maglod_1114-1116.pdf"
+  },
+  {
+   "line": "120",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 4.",
+   "endRaw": "2026. december 12.",
+   "start": "2026-11-04",
+   "end": "2026-12-12",
+   "desc": "Karbantartás miatt a Budapest – Újszász – Szolnok – Békéscsaba vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Újszász – Szolnok – Békéscsaba line run according to a modified timetable.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v6_hirdetmeny_120_kobanya-kispest_1104-1212.pdf"
+  },
+  {
+   "line": "120",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 13.",
+   "endRaw": "2026. november 16.",
+   "start": "2026-11-13",
+   "end": "2026-11-16",
+   "desc": "Karbantartási munkák miatt a Budapest – Újszász – Szolnok – Lőkösháza vonalon számos vonat módosított menetrend szerint közlekedik. Due to reconstruction works, numerous trains run according to modified timetable on the Budapest – Újszász – Szolnok – Lőkösháza line.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v2_hirdetmeny_120_rakoshegy_-_maglod_1114-1115.pdf"
+  },
+  {
+   "line": "120",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 17.",
+   "endRaw": "2026. november 20.",
+   "start": "2026-11-17",
+   "end": "2026-11-20",
+   "desc": "Karbantartási munkák miatt a Szolnok – Békéscsaba – Lőkösháza vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to track reconstruction works, certain trains on the Szolnok – Békéscsaba – Lőkösháza line run according to a modified timetable.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_120_mezotur_1117_1120.pdf"
+  },
+  {
+   "line": "125",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 16.",
+   "endRaw": "2026. november 19.",
+   "start": "2026-11-16",
+   "end": "2026-11-19",
+   "desc": "Térképes információ a vágányzárrólKarbantartási munkák miatt egyes esti vonatok menetrendje módosul, helyettük Szarvas – Orosháza között MÁVBUSZ-ok közlekednek. Due to track reconstruction works, certain night trains run according to a modified timetable, MÁVBUSZ services operate between Szarvas – Orosháza stations.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_125_mh_trkp_nagyszenas_oroshaza-uveggyar_a4_web_0.pdf"
+  },
+  {
+   "line": "127",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 20.",
+   "endRaw": "2026. november 23.",
+   "start": "2026-11-20",
+   "end": "2026-11-23",
+   "desc": "Karbantartás miatt egyes délutáni és esti vonatok menetrendje módosul, Szeghalom – Gyoma között MÁVBUSZ-ok közlekednek. Due to reconstruction works, certain afternoon and evening trains run according to a modified timetable, MÁVBUSZ services operate between Szeghalom and Gyoma.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_127_devavanya_gyoma_1120_1123_v1022.pdf"
+  },
+  {
+   "line": "127",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 30.",
+   "endRaw": "2026. december 2.",
+   "start": "2026-11-30",
+   "end": "2026-12-02",
+   "desc": "Karbantartási munkák miatt egyes esti és hajnali vonatok menetrendje módosul, Vésztő–Szeghalom között MÁVBUSZ-ok közlekednek. Due to reconstruction works, certain night trains and early morning trains run according to a modified timetable, MÁVBUSZ services operate between Vésztő and Szeghalom.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_127_veszto_szeghalom_1130_1202.pdf"
+  },
+  {
+   "line": "128",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 24.",
+   "endRaw": "2026. november 27.",
+   "start": "2026-11-24",
+   "end": "2026-11-27",
+   "desc": "Karbantartási munkák miatt Püspökladány – Szeghalom között egyes délutáni és esti vonatok helyett MÁVBUSZ-ok közlekednek. Due to maintenance works, MÁVBUSZ services operate instead of certain afternoon and evening trains between Püspökladány and Szeghalom .",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_128_fgyarmat_pladany_1124_1128_v1027.pdf"
+  },
+  {
+   "line": "128",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 30.",
+   "endRaw": "2026. december 2.",
+   "start": "2026-11-30",
+   "end": "2026-12-02",
+   "desc": "Karbantartási munkák miatt egyes esti és hajnali vonatok menetrendje módosul, Vésztő–Szeghalom között MÁVBUSZ-ok közlekednek. Due to reconstruction works, certain night trains and early morning trains run according to a modified timetable, MÁVBUSZ services operate between Vésztő and Szeghalom.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v2_hirdetmeny_128_veszto_szeghalom_1130_1202.pdf"
+  },
+  {
+   "line": "130",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. augusztus 3.",
+   "endRaw": "2026. december 12.",
+   "start": "2026-08-03",
+   "end": "2026-12-12",
+   "desc": "Térképes információ a vágányzárrólKarbantartási munkák miatt a vonatok menetrendje módosul, Kiskunfélegyháza és Szentes között MÁVBUSZ-ok közlekednek. Due to track reconstruction works, some trains run according to modified timetable, MÁVBUSZ services operate between Kiskunfélegyháza and Szentes stations.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_147_mh_trkp_varosi_park_csongrad_also_a4_web.pdf"
+  },
+  {
+   "line": "130",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 27.",
+   "endRaw": "2026. december 1.",
+   "start": "2026-11-27",
+   "end": "2026-12-01",
+   "desc": "Karbantartási munkák miatt Szentes – Hódmezővásárhely között egy hajnali és egy esti vonat helyett MÁVBUSZ közlekedik. Due to maintenance works, MÁVBUSZ services operate instead of an early morning train and of an evening train between Szentes and Hódmezővásárhely.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_130_szentes_hmvnepkert_1127_1201.pdf"
+  },
+  {
+   "line": "131a",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 15.",
+   "endRaw": "2026. december 3.",
+   "start": "2026-11-15",
+   "end": "2026-12-03",
+   "desc": "Karbantartás miatt a TramTrain járatok csak Szeged, vasútállomás és Szeged, Rókus vasútállomás között, a békéscsabai személyvonatok csak Hódmezővásárhely állomástól/-ig közlekednek. Szeged és Hódmezővásárhely között MÁVBUSZ-okkal utazhatnak. Due to reconstruction works, the TramTrain services run only between Szeged, vasútállomás and Szeged, Rókus vasútállomás, trains on the Szeged – Békéscsaba line operate only to/from Hódmezővásárhely. MÁVBUSZ services run between Szeged and Hódmezővásárhely",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_135_sgrokus_hmvhnepkert_1115_1203.pdf"
+  },
+  {
+   "line": "135",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 15.",
+   "endRaw": "2026. december 3.",
+   "start": "2026-11-15",
+   "end": "2026-12-03",
+   "desc": "Karbantartás miatt a TramTrain járatok csak Szeged, vasútállomás és Szeged, Rókus vasútállomás között, a békéscsabai személyvonatok csak Hódmezővásárhely állomástól/-ig közlekednek. Szeged és Hódmezővásárhely között MÁVBUSZ-okkal utazhatnak. Due to reconstruction works, the TramTrain services run only between Szeged, vasútállomás and Szeged, Rókus vasútállomás, trains on the Szeged – Békéscsaba line operate only to/from Hódmezővásárhely. MÁVBUSZ services run between Szeged and Hódmezővásárhely",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_135_sgrokus_hmvhnepkert_1115_1203.pdf"
+  },
+  {
+   "line": "140",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 4.",
+   "endRaw": "2026. december 1.",
+   "start": "2026-11-04",
+   "end": "2026-12-01",
+   "desc": "Karbantartás miatt a Budapest – Cegléd – Záhony és a Budapest – Cegléd – Szeged vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Cegléd – Záhony and on the a Budapest – Cegléd – Szeged lines run according to a modified timetable.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v4_hirdetmeny_140_kobanya-kispest_1104-1201.pdf"
+  },
+  {
+   "line": "140",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 21.",
+   "endRaw": "2026. november 29.",
+   "start": "2026-11-21",
+   "end": "2026-11-29",
+   "desc": "Karbantartás miatt a Budapest – Cegléd – Szolnok vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Cegléd – Szolnok line run according to a modified timetable.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v3_hirdetmeny_140_kobanya-kispest_-_pestszentlorinc_1121-1129.pdf"
+  },
+  {
+   "line": "142",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. november 4.",
+   "endRaw": "2026. december 1.",
+   "start": "2026-11-04",
+   "end": "2026-12-01",
+   "desc": "Karbantartás miatt a Budapest – Lajosmizse vonalon a vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, trains on the Budapest – Lajosmizse line run according to a modified timetable.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/hirdetmeny_142_kobanya-kispest_1104-1201_v1103.pdf"
+  },
+  {
+   "line": "147",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. augusztus 3.",
+   "endRaw": "2026. december 12.",
+   "start": "2026-08-03",
+   "end": "2026-12-12",
+   "desc": "Térképes információ a vágányzárrólKarbantartási munkák miatt a vonatok menetrendje módosul, Kiskunfélegyháza és Szentes között MÁVBUSZ-ok közlekednek. Due to track reconstruction works, some trains run according to modified timetable, MÁVBUSZ services operate between Kiskunfélegyháza and Szentes stations.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_147_mh_trkp_a4_20407.pdf"
+  },
+  {
+   "line": "147",
+   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "startRaw": "2026. augusztus 3.",
+   "endRaw": "2026. december 12.",
+   "start": "2026-08-03",
+   "end": "2026-12-12",
+   "desc": "Térképes információ a vágányzárrólKarbantartási munkák miatt a vonatok menetrendje módosul, Kiskunfélegyháza és Szentes között MÁVBUSZ-ok közlekednek. Due to track reconstruction works, some trains run according to modified timetable, MÁVBUSZ services operate between Kiskunfélegyháza and Szentes stations.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_147_mh_trkp_a4_20407_0.pdf"
+  }
+ ]
+}
