@@ -1,0 +1,31 @@
+name: Menetrendszerűség gyűjtő (20 percenként)
+
+on:
+  schedule:
+    - cron: '3,23,43 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: pontossag
+  cancel-in-progress: false
+
+jobs:
+  gyujt:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Gyűjtés és összesítés
+        run: python scraper_vonal.py
+      - name: Commit
+        run: |
+          git config user.name "abigel-bot"
+          git config user.email "abigel-bot@users.noreply.github.com"
+          git add data/futasok data/pontossag.json
+          git diff --staged --quiet || git commit -m "Menetrendszerűség – $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git pull --rebase -q || true
+          git push
