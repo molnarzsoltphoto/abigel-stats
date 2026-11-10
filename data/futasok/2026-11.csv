@@ -1,0 +1,260 @@
+datum,ido,vonatszam,nev,szegmens,viszonylat,vonal,megallo,keses_perc
+2026-11-10,09:47,992,992 SCARBANTIA InterCity,IC,Budapest – Sopron,8,Tatabánya,0
+2026-11-10,09:47,9932,9932 passenger train,személy,Győr – Sopron,,Veszkény,16
+2026-11-10,09:47,847,847 TÓPART InterCity,IC,Balatonszentgyörgy – Budapest,,Budapest-Kelenföld,0
+2026-11-10,09:47,7807,7807 KISKUN InterRegio,IR,Kiskunhalas – Baja,,Baja,-1
+2026-11-10,09:47,4282,4282 passenger train,személy,Budapest – Dunaújváros,,Iváncsa,0
+2026-11-10,09:47,2062,2062 passenger train,személy,Budapest – Esztergom,2,Dorog,4
+2026-11-10,09:47,36322,36322 passenger train,személy,Tiborszállás – Mátészalka,,Mátészalka,0
+2026-11-10,09:47,7407,7407 BÉKÉS InterCity,IC,Lőkösháza – Budapest,120,Csárdaszállás,6
+2026-11-10,09:47,2937,2937 passenger train,személy,Lajosmizse – Kőbánya,,Ócsa,2
+2026-11-10,09:47,39527,39527 passenger train,személy,Veszprém – Győr,,Veszprém,11
+2026-11-10,09:47,982,982 SCARBANTIA InterCity,IC,Budapest – Sopron,8,Sopron,17
+2026-11-10,09:47,877,877 BALATON InterCity,IC,Keszthely – Budapest,29,Balatonszárszó,2
+2026-11-10,09:47,9937,9937 passenger train,személy,Sopron – Győr,,Sopron,1
+2026-11-10,09:47,9162,9162 passenger train,személy,Sopron – Szentgotthárd,,Haris,0
+2026-11-10,09:47,2077,2077 passenger train,személy,Esztergom – Budapest,2,Pilisvörösvár,5
+2026-11-10,09:47,2942,2942 passenger train,személy,Kőbánya – Lajosmizse,,Pestszentimre felső,0
+2026-11-10,09:47,17897,17897 KISKUN InterRegio,IR,Kecskemét – Kiskunhalas,,Galambos,0
+2026-11-10,09:47,9042,9042 passenger train,személy,Celldömölk – Szombathely,,Celldömölk,6
+2026-11-10,09:47,9177,9177 passenger train,személy,Szentgotthárd – Sopron,,Kópháza,4
+2026-11-10,09:47,37622,37622 passenger train,személy,Békéscsaba – Vésztő,,Békéscsaba,2
+2026-11-10,09:47,2087,2087 passenger train,személy,Esztergom – Budapest,2,Esztergom,11
+2026-11-10,09:47,937,937 SAVARIA InterCity,IC,Szombathely – Budapest,20,Csorna,2
+2026-11-10,09:47,4642,4642 passenger train,személy,Budapest – Martonvásár,,Budapest-Kelenföld,0
+2026-11-10,09:47,4647,4647 passenger train,személy,Martonvásár – Budapest,,Martonvásár,0
+2026-11-10,09:47,927,927 SAVARIA InterCity,IC,Szombathely – Budapest,20,Budapest-Kelenföld,19
+2026-11-10,09:47,4467,4467 passenger train,személy,Oroszlány – Budapest,,Oroszlány,1
+2026-11-10,09:47,17892,17892 KISKUN InterRegio,IR,Kiskunhalas – Kecskemét,,Kiskunmajsa,1
+2026-11-10,09:47,9087,9087 passenger train,személy,Szombathely – Celldömölk,,Celldömölk,11
+2026-11-10,09:47,2067,2067 passenger train,személy,Esztergom – Budapest,2,Budapest-Nyugati,11
+2026-11-10,09:47,9467,9467 passenger train,személy,Hegyeshalom – Győr,,Kimle-Károlyháza,0
+2026-11-10,09:47,184,184 HERNÁD InterCity,IC,Budapest – Hidasnémeti,,Mezőkövesd,7
+2026-11-10,09:47,8202,8202 passenger train,személy,Dombóvár – Gyékényes,,Dombóvár,0
+2026-11-10,09:47,8217,8217 passenger train,személy,Gyékényes – Dombóvár,,Gyékényes,2
+2026-11-10,09:47,8207,8207 passenger train,személy,Gyékényes – Dombóvár,,Nagyberki,6
+2026-11-10,09:47,8222,8222 passenger train,személy,Dombóvár – Gyékényes,,Szenta,0
+2026-11-10,09:47,36622,36622 passenger train,személy,Debrecen – Tiszalök,,Hajdúböszörmény,-1
+2026-11-10,09:47,8307,8307 GEMENC InterRegio,IR,Baja – Székesfehérvár,,Székesfehérvár,0
+2026-11-10,09:47,8317,8317 GEMENC InterRegio,IR,Baja – Székesfehérvár,,Decs,2
+2026-11-10,09:47,9962,9962 passenger train,személy,Győr – Csorna,,Győr,0
+2026-11-10,09:47,37015,37015 passenger train,személy,Mezőhegyes – Békéscsaba,,Belsőkamaráspuszta,0
+2026-11-10,09:47,36627,36627 passenger train,személy,Tiszalök – Debrecen,,Tedej,0
+2026-11-10,09:47,4547,4547 passenger train,személy,Székesfehérvár – Budapest,30a,Székesfehérvár,0
+2026-11-10,09:47,35732,35732 passenger train,személy,Vámosgyörk – Szolnok,,Jászapáti,32
+2026-11-10,09:47,3547,3547 passenger train,személy,Székesfehérvár – Kőbánya,,Tárnok,0
+2026-11-10,09:47,78,78 MUNTENIA InterCity,IC,Bucureşti Nord – Budapest,,Lőkösháza,0
+2026-11-10,09:47,8899,8899 FENYVES fast train,IR,Tapolca – Kaposvár,,Kaposvár,1
+2026-11-10,09:47,246,246 CITADELLA InterCity,IC,Budapest – Ljubljana,,Székesfehérvár,1
+2026-11-10,09:47,33427,33427 passenger train,személy,Vác – Aszód,,Vác-Alsóváros,1
+2026-11-10,09:47,5847,5847 passenger train,személy,Somoskőújfalu – Hatvan,,Hatvan,6
+2026-11-10,09:47,5097,5097 passenger train,személy,Füzesabony – Vámosgyörk,,Füzesabony,5
+2026-11-10,09:47,7247,7247 passenger train,személy,Hódmezővásárhely – Szentes,,Mártély,0
+2026-11-10,09:47,35427,35427 passenger train,személy,Tornanádaska – Miskolc,,Szalonna,7
+2026-11-10,09:47,2072,2072 passenger train,személy,Budapest – Esztergom,2,Pilisvörösvár,0
+2026-11-10,09:47,8907,8907 PANNÓNIA InterRegio,IR,Pécs – Szombathely,,Zalaszentiván,5
+2026-11-10,09:47,8997,8997 PANNÓNIA InterRegio,IR,Pécs – Szombathely,,Babócsa,3
+2026-11-10,09:47,8992,8992 PANNÓNIA InterRegio,IR,Szombathely – Pécs,,Zalaszentiván,2
+2026-11-10,09:47,2487,2487 passenger train,személy,Vác – Budapest,70,Göd,2
+2026-11-10,09:47,4932,4932 passenger train,személy,Budapest – Győr,1,Vértesszőlős,29
+2026-11-10,09:47,9452,9452 EuroRegio,egyéb,Győr – Bruck/Leitha,,Győr,0
+2026-11-10,09:47,75,75 CLAUDIOPOLIS - FOGARAS InterCity,IC,Budapest – Cluj Napoca,,Szolnok,4
+2026-11-10,09:47,4942,4942 passenger train,személy,Budapest – Győr,1,Biatorbágy,4
+2026-11-10,09:47,2557,2557 passenger train,személy,Vác – Budapest,70,Rákospalota-Újpest,2
+2026-11-10,09:47,8304,8304 GEMENC InterRegio,IR,Székesfehérvár – Baja,,Székesfehérvár,0
+2026-11-10,09:47,2567,2567 passenger train,személy,Vác – Budapest,70,Váchartyán,0
+2026-11-10,09:47,2367,2367 passenger train,személy,Szob – Budapest,70,Budapest-Nyugati,0
+2026-11-10,09:47,140,140 HORTOBÁGY EuroCity,IC,Nyíregyháza – Wien Westbf,,Győr,11
+2026-11-10,09:47,6322,6322 passenger train,személy,Debrecen – Mátészalka,,Hajdúsámson,12
+2026-11-10,09:47,997,997 SCARBANTIA InterCity,IC,Sopron – Budapest,8,Komárom,21
+2026-11-10,09:47,32942,32942 passenger train,személy,Esztergom – Komárom,,Esztergom,4
+2026-11-10,09:47,367,367 HARGITA InterCity,IC,Budapest – Braşov,,Debrecen,30
+2026-11-10,09:47,37012,37012 passenger train,személy,Békéscsaba – Mezőhegyes,,Bánkút,8
+2026-11-10,09:47,8017,8017 passenger train,személy,Dombóvár – Budapest,40,Budapest-Kelenföld,45
+2026-11-10,09:47,4147,4147 passenger train,személy,Pusztaszabolcs – Budapest,40a,Nagytétény-Diósd,0
+2026-11-10,09:47,8312,8312 GEMENC InterRegio,IR,Székesfehérvár – Baja,,Tengelic,11
+2026-11-10,09:47,36527,36527 passenger train,személy,Kisújszállás – Kál,,Kenderes,1
+2026-11-10,09:47,7702,7702 passenger train,személy,Szeged – Békéscsaba,,Csorvás,3
+2026-11-10,09:47,9657,9657 passenger train,személy,Ukk – Sümeg,,Ukk,6
+2026-11-10,09:47,7707,7707 passenger train,személy,Békéscsaba – Szeged,,Hódmezővásárhely,4
+2026-11-10,09:47,7737,7737 passenger train,személy,Békéscsaba – Szeged,,Békéscsaba,0
+2026-11-10,09:47,3152,3152 passenger train,személy,Budapest – Gödöllő,,Rákos,2
+2026-11-10,09:47,4297,4297 passenger train,személy,Dunaújváros – Budapest,,Adony,0
+2026-11-10,09:47,5857,5857 passenger train,személy,Somoskőújfalu – Hatvan,,Kisterenye-Bányatelep,5
+2026-11-10,09:47,146,146 TISZA - SZAMOS EuroCity,IC,Chop – Wien Westbf,,Kisvárda,1
+2026-11-10,09:47,35422,35422 passenger train,személy,Miskolc – Tornanádaska,,Büdöskútpuszta,3
+2026-11-10,09:47,5842,5842 passenger train,személy,Hatvan – Somoskőújfalu,,Szurdokpüspöki,7
+2026-11-10,09:47,37727,37727 passenger train,személy,Püspökladány – Szeghalom,,Hosszúhát,-1
+2026-11-10,09:47,35727,35727 passenger train,személy,Szolnok – Vámosgyörk,,Jászapáti,11
+2026-11-10,09:47,7732,7732 passenger train,személy,Szeged – Békéscsaba,,Hódmezővásárhelyi Népkert,6
+2026-11-10,09:47,8067,8067 passenger train,személy,Pécs – Dombóvár,,Kaposszekcső,4
+2026-11-10,09:47,38317,38317 passenger train,személy,Siófok – Kaposvár,,Mernye,1
+2026-11-10,09:47,3457,3457 passenger train,személy,Sülysáp – Budapest,,Sülysáp,0
+2026-11-10,09:47,852,852 TÓPART InterCity,IC,Budapest – Balatonszentgyörgy,,Székesfehérvár,1
+2026-11-10,09:47,4937,4937 passenger train,személy,Győr – Budapest,1,Szárliget,4
+2026-11-10,09:47,34117,34117 passenger train,személy,Székesfehérvár – Pusztaszabolcs,,Zichyújfalu,-1
+2026-11-10,09:47,5422,5422 passenger train,személy,Miskolc – Ózd,,Bánréve,10
+2026-11-10,09:47,182,182 HERNÁD InterCity,IC,Budapest – Kosice,,Hidasnémeti,14
+2026-11-10,09:47,371,371 ZARÁND InterCity,IC,Budapest – Arad,,Békéscsaba,7
+2026-11-10,09:47,4542,4542 passenger train,személy,Budapest – Székesfehérvár,30a,Kápolnásnyék,2
+2026-11-10,09:47,8804,8804 FENYVES fast train,IR,Pécs – Tapolca,,Kaposvár,11
+2026-11-10,09:47,8897,8897 FENYVES fast train,IR,Tapolca – Kaposvár,,Keszthely,-2
+2026-11-10,09:47,37317,37317 passenger train,személy,Mezőhegyes – Mezőtúr,,Pusztabánréve,4
+2026-11-10,09:47,3864,3864 passenger train,személy,Budapest – Tárnok,,Budapest-Kelenföld,0
+2026-11-10,09:47,37312,37312 passenger train,személy,Mezőtúr – Mezőhegyes,,Kisszénás,1
+2026-11-10,09:47,812,812 MECSEK InterCity,IC,Budapest – Pécs,40,Budapest-Déli,0
+2026-11-10,09:47,2377,2377 passenger train,személy,Szob – Budapest,70,Szob,0
+2026-11-10,09:47,8902,8902 PANNÓNIA InterRegio,IR,Szombathely – Pécs,,Berzence,16
+2026-11-10,09:47,3897,3897 passenger train,személy,Tárnok – Budapest,,Érd alsó,0
+2026-11-10,09:47,378,378 BÉGA InterCity,IC,Timişoara Nord – Budapest,,Budapest-Keleti,10
+2026-11-10,09:47,7202,7202 passenger train,személy,Szolnok – Szentes,,Szentes,22
+2026-11-10,09:47,183,183 HERNÁD InterCity,IC,Kosice – Budapest,,Miskolc-Tiszai,20
+2026-11-10,09:47,4537,4537 passenger train,személy,Székesfehérvár – Budapest,30a,Budapest-Déli,0
+2026-11-10,09:47,7222,7222 passenger train,személy,Szolnok – Szentes,,Tiszaföldvár,11
+2026-11-10,09:47,4457,4457 passenger train,személy,Oroszlány – Budapest,,Herceghalom,16
+2026-11-10,09:47,6647,6647 passenger train,személy,Füzesabony – Debrecen,,Füzesabony,8
+2026-11-10,09:47,525,525 ZEMPLÉN InterCity,IC,Sátoraljaújhely – Miskolc,,Sátoraljaújhely,0
+2026-11-10,09:47,4947,4947 passenger train,személy,Győr – Budapest,1,Győr-Gyárváros,8
+2026-11-10,09:47,351,351 DRÁVA InterCity,IC,Ljubljana – Budapest,,Szentgotthárd,0
+2026-11-10,09:47,36027,36027 passenger train,személy,Vásárosnamény – Nyíregyháza,,Vásárosnamény,0
+2026-11-10,09:47,6337,6337 passenger train,személy,Mátészalka – Debrecen,,Nyírbogát,8
+2026-11-10,09:47,817,817 MECSEK InterCity,IC,Pécs – Budapest,40,Szentlőrinc,16
+2026-11-10,09:47,39027,39027 passenger train,személy,Rédics – Zalaegerszeg,,Zalaegerszeg,12
+2026-11-10,09:47,181,181 HERNÁD InterCity,IC,Kosice – Budapest,,Budapest-Keleti,28
+2026-11-10,09:47,842,842 TÓPART InterCity,IC,Budapest – Balatonszentgyörgy,,Balatonmáriafürdő,0
+2026-11-10,09:47,2472,2472 passenger train,személy,Budapest – Vác,70,Göd,5
+2026-11-10,09:47,8012,8012 passenger train,személy,Budapest – Dombóvár,40,Döbrököz,10
+2026-11-10,09:47,3167,3167 passenger train,személy,Gödöllő – Budapest,,Gödöllő,0
+2026-11-10,09:47,2362,2362 passenger train,személy,Budapest – Szob,70,Nagymaros-Visegrád,1
+2026-11-10,09:47,6427,6427 passenger train,személy,Biharkeresztes – Püspökladány,,Mezőpeterd,0
+2026-11-10,09:47,278,278 METROPOLITAN EuroCity,IC,Budapest – Praha hl. n.,,Vác,4
+2026-11-10,09:47,60,60 railjet xpress,IC,Budapest – München Hbf,,Hegyeshalom,18
+2026-11-10,09:47,3247,3247 passenger train,személy,Pilisvörösvár – Rákos,,Pilisvörösvár,0
+2026-11-10,09:47,3262,3262 passenger train,személy,Rákos – Pilisvörösvár,,Angyalföld,3
+2026-11-10,09:47,38817,38817 passenger train,személy,Mohács – Villány,,Márok,0
+2026-11-10,09:47,9527,9527 passenger train,személy,Zalaegerszeg – Celldömölk,,Türje,13
+2026-11-10,09:47,32242,32242 passenger train,személy,Vác – Diósjenő,,Kisvác,3
+2026-11-10,09:47,6637,6637 passenger train,személy,Füzesabony – Debrecen,,Kónya,6
+2026-11-10,09:47,37647,37647 passenger train,személy,Salonta – Békéscsaba,,József Szanatórium,1
+2026-11-10,09:47,7022,7022 passenger train,személy,Kiskunfélegyháza – Szeged,,Szeged,1
+2026-11-10,09:47,267,267 railjet xpress,IC,Wien Hbf – Budapest,,Budapest-Kelenföld,5
+2026-11-10,09:47,7227,7227 passenger train,személy,Szentes – Szolnok,,Bagimajor,9
+2026-11-10,09:47,2542,2542 passenger train,személy,Budapest – Vác,70,Veresegyház,0
+2026-11-10,09:47,5267,5267 passenger train,személy,Szerencs – Füzesabony,,Emőd,10
+2026-11-10,09:47,35012,35012 passenger train,személy,Tiszaújváros – Miskolc,,Sajószöged,0
+2026-11-10,09:47,33522,33522 passenger train,személy,Hatvan – Balassagyarmat,,Aszód,14
+2026-11-10,09:47,3462,3462 passenger train,személy,Budapest – Sülysáp,,Rákoskert,5
+2026-11-10,09:47,582,582 TOKAJ InterCity,IC,IC TOKAJ,,Szolnok,9
+2026-11-10,09:47,5117,5117 passenger train,személy,Nyíregyháza – Füzesabony,,Taktaszada,0
+2026-11-10,09:47,33527,33527 passenger train,személy,Balassagyarmat – Aszód,,Balassagyarmat,0
+2026-11-10,09:47,38362,38362 passenger train,személy,Tab – Siófok,,Tab,0
+2026-11-10,09:47,5737,5737 passenger train,személy,Szolnok – Hatvan,,Hatvan,1
+2026-11-10,09:47,862,862 BALATON InterCity,IC,Budapest – Keszthely,29,Siófok,0
+2026-11-10,09:47,34,34 LATORCA InterCity,IC,Budapest – Mukachevo,,Hajdúszoboszló,15
+2026-11-10,09:47,32227,32227 passenger train,személy,Diósjenő – Vác,,Berkenye,1
+2026-11-10,09:47,5832,5832 passenger train,személy,Hatvan – Somoskőújfalu,,Somoskőújfalu,5
+2026-11-10,09:47,6072,6072 CÍVIS InterRegio,IR,Budapest – Debrecen,100,Szolnok,7
+2026-11-10,09:47,5332,5332 passenger train,személy,Miskolc – Hidasnémeti,,Miskolc-Tiszai,0
+2026-11-10,09:47,6002,6002 CÍVIS InterRegio,IR,Budapest – Debrecen,100,Karcag,9
+2026-11-10,09:47,6139,6139 CÍVIS InterRegio,IR,Nyíregyháza – Budapest,100,Zugló,13
+2026-11-10,09:47,37522,37522 passenger train,személy,Vésztő – Gyoma,,Szeghalom,7
+2026-11-10,09:47,3367,3367 passenger train,személy,Szolnok – Budapest,100a,Farmos,5
+2026-11-10,09:47,3447,3447 passenger train,személy,Sülysáp – Budapest,,Rákoskert,1
+2026-11-10,09:47,3357,3357 passenger train,személy,Szolnok – Budapest,100a,Kőbánya felső,10
+2026-11-10,09:47,37527,37527 passenger train,személy,Gyoma – Vésztő,,Körösladány,4
+2026-11-10,09:47,957,957 GÖCSEJ InterCity,IC,Zalaegerszeg – Budapest,,Pétfürdő,12
+2026-11-10,09:47,9797,9797 fast train,IR,Tapolca – Budapest,29,Badacsonytördemic-Szigliget,2
+2026-11-10,09:47,6622,6622 passenger train,személy,Debrecen – Füzesabony,,Balmazújváros,1
+2026-11-10,09:47,5315,5315 passenger train,személy,Hidasnémeti – Miskolc,,Forró-Encs,14
+2026-11-10,09:47,37327,37327 passenger train,személy,Mezőhegyes – Mezőtúr,,Nagyér,0
+2026-11-10,09:47,2757,2757 passenger train,személy,Monor – Budapest,100a,Monor,2
+2026-11-10,09:47,39812,39812 passenger train,személy,Hegyeshalom – Szombathely,,Beled,12
+2026-11-10,09:47,141,141 CSÁRDÁS EuroCity,IC,Wien Westbf – Budapest,,Győr,1
+2026-11-10,09:47,547,547 AGRIA InterRegio,IR,Eger – Budapest,,Máriabesnyő,18
+2026-11-10,09:47,3332,3332 passenger train,személy,Budapest – Szolnok,100a,Szolnok,2
+2026-11-10,09:47,722,722 NAPFÉNY InterCity,IC,Budapest – Szeged,140,Cegléd,4
+2026-11-10,09:47,39844,39844 passenger train,személy,Hegyeshalom – Csorna,,Jánossomorja,0
+2026-11-10,09:47,967,967 GÖCSEJ InterCity,IC,Zalaegerszeg – Budapest,,Zalaegerszeg,0
+2026-11-10,09:47,354,354 MURA InterCity,IC,Budapest – Graz Hbf,,Csorna,5
+2026-11-10,09:47,5500,5500 AGRIA InterRegio,IR,Budapest – Eger,,Füzesabony,12
+2026-11-10,09:47,552,552 AGRIA InterRegio,IR,Budapest – Eger,,Hatvan,2
+2026-11-10,09:47,2932,2932 passenger train,személy,Kőbánya – Lajosmizse,,Gyón,4
+2026-11-10,09:47,580,580 TOKAJ InterCity,IC,Miskolc – Budapest,80,Cegléd,16
+2026-11-10,09:47,7402,7402 BÉKÉS InterCity,IC,Budapest – Lőkösháza,120,Kétpó,5
+2026-11-10,09:47,9047,9047 passenger train,személy,Szombathely – Celldömölk,,Porpác,0
+2026-11-10,09:47,31927,31927 passenger train,személy,Csorna – Pápa,,Szany-Rábaszentandrás,11
+2026-11-10,09:47,7302,7302 passenger train,személy,Szeged – Subotica,,Röszke,0
+2026-11-10,09:47,6227,6227 passenger train,személy,Záhony – Debrecen,,Újfehértó,1
+2026-11-10,09:47,3047,3047 MÁTRA InterRegio,IR,Gyöngyös – Budapest,,Tura,3
+2026-11-10,09:47,6237,6237 passenger train,személy,Záhony – Nyíregyháza,,Kék,0
+2026-11-10,09:47,732,732 NAPFÉNY InterCity,IC,Budapest – Szeged,140,Zugló,4
+2026-11-10,09:47,8027,8027 passenger train,személy,Dombóvár – Budapest,40,Nagylók,14
+2026-11-10,09:47,32437,32437 passenger train,személy,Zajta – Fehérgyarmat,,Kisszekeres,0
+2026-11-10,09:47,39517,39517 passenger train,személy,Veszprém – Győr,,Győr,6
+2026-11-10,09:47,759,759 BÉKÉS InterCity,IC,Lőkösháza – Budapest,120,Budapest-Keleti,19
+2026-11-10,09:47,952,952 GÖCSEJ InterCity,IC,Budapest – Zalaegerszeg,,Ukk,16
+2026-11-10,09:47,39522,39522 passenger train,személy,Győr – Veszprém,,Zirc,11
+2026-11-10,09:47,3542,3542 passenger train,személy,Kőbánya – Székesfehérvár,,Ferencváros,13
+2026-11-10,09:47,3032,3032 MÁTRA InterRegio,IR,Budapest – Gyöngyös,,Gyöngyöshalász,3
+2026-11-10,09:47,3042,3042 MÁTRA InterRegio,IR,Budapest – Gyöngyös,,Gödöllő,3
+2026-11-10,09:47,717,717 NAPFÉNY InterCity,IC,Szeged – Budapest,140,Ferihegy,9
+2026-11-10,09:47,737,737 NAPFÉNY InterCity,IC,Szeged – Budapest,140,Szatymaz,0
+2026-11-10,09:47,2947,2947 passenger train,személy,Lajosmizse – Kőbánya,,Felsőlajos,5
+2026-11-10,09:47,619,619 NYÍRSÉG - KRASZNA InterCity,IC,Záhony – Budapest,100,Kőbánya-Kispest,18
+2026-11-10,09:47,557,557 AGRIA InterRegio,IR,Eger – Budapest,,Kál-Kápolna,12
+2026-11-10,09:47,612,612 NYÍRSÉG InterCity,IC,Budapest – Záhony,100,Cegléd,0
+2026-11-10,09:47,346,346 DACIA - RUTHENIA EuroCity,IC,Bucureşti Nord – Wien Westbf,,Wien Hbf,0
+2026-11-10,09:47,650,650 TOKAJ InterCity,IC,IC TOKAJ,,Nyíregyháza,17
+2026-11-10,09:47,560,560 TOKAJ InterCity,IC,IC TOKAJ,,Miskolc-Tiszai,21
+2026-11-10,09:47,3157,3157 passenger train,személy,Gödöllő – Budapest,,Kőbánya felső,1
+2026-11-10,09:47,9792,9792 fast train,IR,Budapest – Tapolca,29,Székesfehérvár,4
+2026-11-10,09:47,3142,3142 passenger train,személy,Budapest – Gödöllő,,Gödöllő,2
+2026-11-10,09:47,3237,3237 passenger train,személy,Pilisvörösvár – Rákos,,Újpest,3
+2026-11-10,09:47,909,909 BAKONY InterCity,IC,Szombathely – Budapest,20,Budapest-Kelenföld,0
+2026-11-10,09:47,8802,8802 FENYVES fast train,IR,Pécs – Tapolca,,Balatonberény,0
+2026-11-10,09:47,4432,4432 passenger train,személy,Budapest – Oroszlány,,Alsógalla,8
+2026-11-10,09:47,39947,39947 passenger train,személy,Kőszeg – Szombathely,,Gencsapáti felső,3
+2026-11-10,09:47,8122,8122 passenger train,személy,Pécs – Beli Manastir,,Villány,14
+2026-11-10,09:47,6212,6212 passenger train,személy,Nyíregyháza – Záhony,,Tuzsér,0
+2026-11-10,09:47,6222,6222 passenger train,személy,Nyíregyháza – Záhony,,Nyíregyháza,0
+2026-11-10,09:47,682,682 TOKAJ InterCity,IC,IC TOKAJ,,Hatvan,18
+2026-11-10,09:47,2772,2772 passenger train,személy,Budapest – Monor,100a,Kőbánya-Kispest,0
+2026-11-10,09:47,562,562 TOKAJ InterCity,IC,IC TOKAJ,,Hatvan,3
+2026-11-10,09:47,9697,9697 HELIKON InterRegio,IR,Győr – Keszthely,,Balatongyörök,7
+2026-11-10,09:47,802,802 MECSEK InterCity,IC,Budapest – Pécs,40,Dombóvár,13
+2026-11-10,09:47,9690,9690 HELIKON InterRegio,IR,Keszthely – Győr,,Celldömölk,4
+2026-11-10,09:47,902,902 BAKONY InterCity,IC,Budapest – Szombathely,20,Ajka,11
+2026-11-10,09:47,727,727 NAPFÉNY InterCity,IC,Szeged – Budapest,140,Kecskemét,8
+2026-11-10,09:47,712,712 NAPFÉNY InterCity,IC,Budapest – Szeged,140,Kistelek,9
+2026-11-10,09:47,5112,5112 passenger train,személy,Füzesabony – Nyíregyháza,,Miskolc-Tiszai,20
+2026-11-10,09:47,6107,6107 CÍVIS InterRegio,IR,Nyíregyháza – Budapest,100,Ebes,-1
+2026-11-10,09:47,2482,2482 passenger train,személy,Budapest – Vác,70,Rákosrendező,0
+2026-11-10,09:47,9722,9722 passenger train,személy,Székesfehérvár – Balatonfüred,,Balatonfüred,0
+2026-11-10,09:47,6132,6132 passenger train,személy,Debrecen – Nyíregyháza,,Bocskaikert,0
+2026-11-10,09:47,9222,9222 passenger train,személy,Győr – Celldömölk,,Celldömölk,13
+2026-11-10,09:47,37712,37712 passenger train,személy,Szeghalom – Püspökladány,,Füzesgyarmatfürdő,-1
+2026-11-10,09:47,6077,6077 CÍVIS InterRegio,IR,Debrecen – Budapest,100,Fegyvernek-Örményes,3
+2026-11-10,09:47,6007,6007 CÍVIS InterRegio,IR,Debrecen – Budapest,100,Cegléd,10
+2026-11-10,09:47,36532,36532 passenger train,személy,Kál – Kisújszállás,,Kál-Kápolna,9
+2026-11-10,09:47,6082,6082 CÍVIS InterRegio,IR,Budapest – Debrecen,100,Ferihegy,1
+2026-11-10,09:47,520,520 ZEMPLÉN InterCity,IC,Miskolc – Sátoraljaújhely,,Olaszliszka-Tolcsva,22
+2026-11-10,09:47,907,907 BAKONY InterCity,IC,Szombathely – Budapest,20,Ajka,5
+2026-11-10,09:47,807,807 MECSEK InterCity,IC,Pécs – Budapest,40,Budapest-Kelenföld,11
+2026-11-10,09:47,9227,9227 passenger train,személy,Celldömölk – Győr,,Gyömöre-Tét,22
+2026-11-10,09:47,3342,3342 passenger train,személy,Budapest – Szolnok,100a,Sülysáp,5
+2026-11-10,09:47,8022,8022 passenger train,személy,Budapest – Dombóvár,40,Pusztaszabolcs,0
+2026-11-10,09:47,9607,9607 HELIKON InterRegio,IR,Győr – Keszthely,,Vaszar,1
+2026-11-10,09:47,4342,4342 passenger train,személy,Budapest – Százhalombatta,,Érdliget,4
+2026-11-10,09:47,9702,9702 fast train,IR,Budapest – Tapolca,29,Balatonrendes,0
+2026-11-10,09:47,9567,9567 passenger train,személy,Őriszentpéter – Zalaegerszeg,,Zalaegerszeg,1
+2026-11-10,09:47,652,652 TOKAJ InterCity,IC,IC TOKAJ,,Püspökladány,3
+2026-11-10,09:47,2747,2747 passenger train,személy,Monor – Budapest,100a,Ferihegy,3
+2026-11-10,09:47,32915,32915 passenger train,személy,Lábatlan – Esztergom,,Tát,0
+2026-11-10,09:47,2827,2827 passenger train,személy,Cegléd – Budapest,100a,Ferihegy,15
+2026-11-10,09:47,617,617 NYÍRSÉG InterCity,IC,Záhony – Budapest,100,Debrecen,0
+2026-11-10,09:47,8284,8284 passenger train,személy,Kaposvár – Somogyszob,,Kaposvár,0
+2026-11-10,09:47,2842,2842 passenger train,személy,Budapest – Cegléd,100a,Pilis,0
+2026-11-10,09:47,2837,2837 passenger train,személy,Cegléd – Budapest,100a,Cegléd,5
+2026-11-10,09:47,2814,2814 passenger train,személy,Budapest – Cegléd,100a,Budapest-Nyugati,0
+2026-11-10,09:47,2762,2762 passenger train,személy,Budapest – Monor,100a,Hosszúberek-Péteri,1
+2026-11-10,09:47,9707,9707 fast train,IR,Tapolca – Budapest,29,Székesfehérvár,2
