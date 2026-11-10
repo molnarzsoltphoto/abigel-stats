@@ -1,10 +1,10 @@
 {
- "frissitve": "2026-11-10T09:49:59.297222+01:00",
+ "frissitve": "2026-11-10T09:52:16.661162+01:00",
  "forras": "https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vaganyzar",
  "tetelek": [
   {
    "line": "0",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2026. március 16.",
    "endRaw": "2026. december 7.",
    "start": "2026-03-16",
@@ -14,7 +14,7 @@
   },
   {
    "line": "0",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Budapest – Marosvásárhely",
    "startRaw": "2026. június 26.",
    "endRaw": "2026. december 31.",
    "start": "2026-06-26",
@@ -24,7 +24,7 @@
   },
   {
    "line": "0",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Hidasnémeti – Kassa",
    "startRaw": "2026. október 5.",
    "endRaw": "2026. december 12.",
    "start": "2026-10-05",
@@ -34,7 +34,7 @@
   },
   {
    "line": "0",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2026. október 15.",
    "endRaw": "2026. december 12.",
    "start": "2026-10-15",
@@ -44,7 +44,7 @@
   },
   {
    "line": "0",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Magyarország – Ukrajna",
    "startRaw": "2026. november 2.",
    "endRaw": "2026. december 12.",
    "start": "2026-11-02",
@@ -54,7 +54,7 @@
   },
   {
    "line": "0",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Budapest – Zürich",
    "startRaw": "2026. november 18.",
    "endRaw": "2026. november 22.",
    "start": "2026-11-18",
@@ -64,7 +64,7 @@
   },
   {
    "line": "1",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2026. szeptember 23.",
    "endRaw": "2026. december 12.",
    "start": "2026-09-23",
@@ -74,7 +74,7 @@
   },
   {
    "line": "1",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2026. november 16.",
    "endRaw": "2026. november 20.",
    "start": "2026-11-16",
@@ -84,7 +84,7 @@
   },
   {
    "line": "4",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Esztergom – Almásfüzitő",
    "startRaw": "2026. november 14.",
    "endRaw": "2026. november 15.",
    "start": "2026-11-14",
@@ -94,7 +94,7 @@
   },
   {
    "line": "5",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Székesfehérvár – Komárom",
    "startRaw": "2026. november 7.",
    "endRaw": "2026. november 10.",
    "start": "2026-11-07",
@@ -104,7 +104,7 @@
   },
   {
    "line": "8",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2026. szeptember 23.",
    "endRaw": "2026. december 12.",
    "start": "2026-09-23",
@@ -114,7 +114,7 @@
   },
   {
    "line": "16",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2026. szeptember 23.",
    "endRaw": "2026. december 12.",
    "start": "2026-09-23",
@@ -124,7 +124,7 @@
   },
   {
    "line": "17",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Szombathely – Zalaszentiván",
    "startRaw": "2026. november 9.",
    "endRaw": "2026. november 28.",
    "start": "2026-11-09",
@@ -134,7 +134,7 @@
   },
   {
    "line": "21",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Szombathely – Szentgotthárd",
    "startRaw": "2026. november 25.",
    "endRaw": "2026. november 26.",
    "start": "2026-11-25",
@@ -144,7 +144,7 @@
   },
   {
    "line": "25",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Szombathely – Zalaszentiván",
    "startRaw": "2026. november 9.",
    "endRaw": "2026. november 28.",
    "start": "2026-11-09",
@@ -154,7 +154,7 @@
   },
   {
    "line": "26",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Siófok – Szántód",
    "startRaw": "2026. november 16.",
    "endRaw": "2026. november 20.",
    "start": "2026-11-16",
@@ -164,7 +164,7 @@
   },
   {
    "line": "29",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2026. november 21.",
    "endRaw": "2026. december 6.",
    "start": "2026-11-21",
@@ -174,7 +174,7 @@
   },
   {
    "line": "30a",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2026. szeptember 21.",
    "endRaw": "2026. december 12.",
    "start": "2026-09-21",
@@ -184,7 +184,7 @@
   },
   {
    "line": "30a",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2026. november 8.",
    "endRaw": "2026. november 15.",
    "start": "2026-11-08",
@@ -194,7 +194,7 @@
   },
   {
    "line": "30a",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2026. november 21.",
    "endRaw": "2026. december 6.",
    "start": "2026-11-21",
@@ -204,7 +204,7 @@
   },
   {
    "line": "30",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Balatonszentgyörgy – Nagykanizsa",
    "startRaw": "2026. november 3.",
    "endRaw": "2026. november 13.",
    "start": "2026-11-03",
@@ -214,7 +214,7 @@
   },
   {
    "line": "30",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2026. november 14.",
    "endRaw": "2026. november 15.",
    "start": "2026-11-14",
@@ -224,7 +224,7 @@
   },
   {
    "line": "30",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Siófok – Szántód",
    "startRaw": "2026. november 16.",
    "endRaw": "2026. november 20.",
    "start": "2026-11-16",
@@ -234,7 +234,7 @@
   },
   {
    "line": "30",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2026. november 21.",
    "endRaw": "2026. december 6.",
    "start": "2026-11-21",
@@ -244,7 +244,7 @@
   },
   {
    "line": "40a",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2026. szeptember 21.",
    "endRaw": "2026. december 12.",
    "start": "2026-09-21",
@@ -254,7 +254,7 @@
   },
   {
    "line": "40",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2026. október 3.",
    "endRaw": "2026. december 12.",
    "start": "2026-10-03",
@@ -264,7 +264,7 @@
   },
   {
    "line": "40",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2026. november 2.",
    "endRaw": "2026. november 11.",
    "start": "2026-11-02",
@@ -274,7 +274,7 @@
   },
   {
    "line": "40",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2026. november 11.",
    "endRaw": "2026. november 14.",
    "start": "2026-11-11",
@@ -284,7 +284,7 @@
   },
   {
    "line": "41",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2026. szeptember 21.",
    "endRaw": "2026. december 12.",
    "start": "2026-09-21",
@@ -294,7 +294,7 @@
   },
   {
    "line": "42",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2026. szeptember 21.",
    "endRaw": "2026. december 12.",
    "start": "2026-09-21",
@@ -304,7 +304,7 @@
   },
   {
    "line": "47",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Komló – Sásd",
    "startRaw": "2026. november 6.",
    "endRaw": "2026. november 11.",
    "start": "2026-11-06",
@@ -314,7 +314,7 @@
   },
   {
    "line": "47",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2026. november 11.",
    "endRaw": "2026. november 14.",
    "start": "2026-11-11",
@@ -324,7 +324,7 @@
   },
   {
    "line": "60",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Pécs – Barcs",
    "startRaw": "2026. november 6.",
    "endRaw": "2026. november 10.",
    "start": "2026-11-06",
@@ -334,7 +334,7 @@
   },
   {
    "line": "60",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2026. november 11.",
    "endRaw": "2026. november 14.",
    "start": "2026-11-11",
@@ -344,7 +344,7 @@
   },
   {
    "line": "61",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2026. november 11.",
    "endRaw": "2026. november 14.",
    "start": "2026-11-11",
@@ -354,7 +354,7 @@
   },
   {
    "line": "65",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2026. november 11.",
    "endRaw": "2026. november 14.",
    "start": "2026-11-11",
@@ -364,7 +364,7 @@
   },
   {
    "line": "66",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2026. november 11.",
    "endRaw": "2026. november 14.",
    "start": "2026-11-11",
@@ -374,7 +374,7 @@
   },
   {
    "line": "80a",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Újszász – Szolnok – Békéscsaba",
    "startRaw": "2026. november 4.",
    "endRaw": "2026. december 12.",
    "start": "2026-11-04",
@@ -384,7 +384,7 @@
   },
   {
    "line": "80a",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Budapest – Gödöllő",
    "startRaw": "2026. november 14.",
    "endRaw": "2026. november 15.",
    "start": "2026-11-14",
@@ -394,7 +394,7 @@
   },
   {
    "line": "80",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Füzesabony – Eger",
    "startRaw": "2026. november 9.",
    "endRaw": "2026. november 25.",
    "start": "2026-11-09",
@@ -404,7 +404,7 @@
   },
   {
    "line": "87a",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Füzesabony – Eger",
    "startRaw": "2026. november 9.",
    "endRaw": "2026. november 25.",
    "start": "2026-11-09",
@@ -414,7 +414,7 @@
   },
   {
    "line": "100a",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Budapest – Cegléd – Szeged",
    "startRaw": "2026. november 4.",
    "endRaw": "2026. december 1.",
    "start": "2026-11-04",
@@ -424,7 +424,7 @@
   },
   {
    "line": "100a",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Budapest – Cegléd – Szolnok",
    "startRaw": "2026. november 21.",
    "endRaw": "2026. november 29.",
    "start": "2026-11-21",
@@ -434,7 +434,7 @@
   },
   {
    "line": "100",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Budapest – Cegléd – Szeged",
    "startRaw": "2026. november 4.",
    "endRaw": "2026. december 1.",
    "start": "2026-11-04",
@@ -444,7 +444,7 @@
   },
   {
    "line": "100",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Budapest – Cegléd – Szolnok",
    "startRaw": "2026. november 21.",
    "endRaw": "2026. november 29.",
    "start": "2026-11-21",
@@ -454,7 +454,7 @@
   },
   {
    "line": "106",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2025. október 19.",
    "endRaw": "2026. december 31.",
    "start": "2025-10-19",
@@ -464,7 +464,7 @@
   },
   {
    "line": "108",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Füzesabony – Eger",
    "startRaw": "2026. november 9.",
    "endRaw": "2026. november 25.",
    "start": "2026-11-09",
@@ -474,7 +474,7 @@
   },
   {
    "line": "110",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Újszász – Szolnok – Békéscsaba",
    "startRaw": "2026. november 4.",
    "endRaw": "2026. december 12.",
    "start": "2026-11-04",
@@ -484,7 +484,7 @@
   },
   {
    "line": "120a",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Újszász – Szolnok – Békéscsaba",
    "startRaw": "2026. november 4.",
    "endRaw": "2026. december 12.",
    "start": "2026-11-04",
@@ -494,7 +494,7 @@
   },
   {
    "line": "120a",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Újszász – Szolnok – Lőkösháza",
    "startRaw": "2026. november 13.",
    "endRaw": "2026. november 16.",
    "start": "2026-11-13",
@@ -504,7 +504,7 @@
   },
   {
    "line": "120",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Újszász – Szolnok – Békéscsaba",
    "startRaw": "2026. november 4.",
    "endRaw": "2026. december 12.",
    "start": "2026-11-04",
@@ -514,7 +514,7 @@
   },
   {
    "line": "120",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Újszász – Szolnok – Lőkösháza",
    "startRaw": "2026. november 13.",
    "endRaw": "2026. november 16.",
    "start": "2026-11-13",
@@ -524,7 +524,7 @@
   },
   {
    "line": "120",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Szolnok – Békéscsaba – Lőkösháza",
    "startRaw": "2026. november 17.",
    "endRaw": "2026. november 20.",
    "start": "2026-11-17",
@@ -534,7 +534,7 @@
   },
   {
    "line": "125",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Szarvas – Orosháza",
    "startRaw": "2026. november 16.",
    "endRaw": "2026. november 19.",
    "start": "2026-11-16",
@@ -544,7 +544,7 @@
   },
   {
    "line": "127",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Szeghalom – Gyoma",
    "startRaw": "2026. november 20.",
    "endRaw": "2026. november 23.",
    "start": "2026-11-20",
@@ -554,7 +554,7 @@
   },
   {
    "line": "127",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2026. november 30.",
    "endRaw": "2026. december 2.",
    "start": "2026-11-30",
@@ -564,7 +564,7 @@
   },
   {
    "line": "128",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Püspökladány – Szeghalom",
    "startRaw": "2026. november 24.",
    "endRaw": "2026. november 27.",
    "start": "2026-11-24",
@@ -574,7 +574,7 @@
   },
   {
    "line": "128",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "",
    "startRaw": "2026. november 30.",
    "endRaw": "2026. december 2.",
    "start": "2026-11-30",
@@ -584,7 +584,7 @@
   },
   {
    "line": "130",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Kiskunfélegyháza – Szentes",
    "startRaw": "2026. augusztus 3.",
    "endRaw": "2026. december 12.",
    "start": "2026-08-03",
@@ -594,7 +594,7 @@
   },
   {
    "line": "130",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Szentes – Hódmezővásárhely",
    "startRaw": "2026. november 27.",
    "endRaw": "2026. december 1.",
    "start": "2026-11-27",
@@ -604,7 +604,7 @@
   },
   {
    "line": "131a",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Szeged – Hódmezővásárhely",
    "startRaw": "2026. november 15.",
    "endRaw": "2026. december 3.",
    "start": "2026-11-15",
@@ -614,7 +614,7 @@
   },
   {
    "line": "135",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Szeged – Hódmezővásárhely",
    "startRaw": "2026. november 15.",
    "endRaw": "2026. december 3.",
    "start": "2026-11-15",
@@ -624,7 +624,7 @@
   },
   {
    "line": "140",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Budapest – Cegléd – Szeged",
    "startRaw": "2026. november 4.",
    "endRaw": "2026. december 1.",
    "start": "2026-11-04",
@@ -634,7 +634,7 @@
   },
   {
    "line": "140",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Budapest – Cegléd – Szolnok",
    "startRaw": "2026. november 21.",
    "endRaw": "2026. november 29.",
    "start": "2026-11-21",
@@ -644,7 +644,7 @@
   },
   {
    "line": "142",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Budapest – Lajosmizse",
    "startRaw": "2026. november 4.",
    "endRaw": "2026. december 1.",
    "start": "2026-11-04",
@@ -654,7 +654,7 @@
   },
   {
    "line": "147",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Kiskunfélegyháza – Szentes",
    "startRaw": "2026. augusztus 3.",
    "endRaw": "2026. december 12.",
    "start": "2026-08-03",
@@ -664,7 +664,7 @@
   },
   {
    "line": "147",
-   "route": "155 Kiskunhalas - Kiskunfélegyháza",
+   "route": "Kiskunfélegyháza – Szentes",
    "startRaw": "2026. augusztus 3.",
    "endRaw": "2026. december 12.",
    "start": "2026-08-03",
