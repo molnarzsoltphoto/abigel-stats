@@ -952,3 +952,28 @@ datum,ido,vonatszam,nev,szegmens,viszonylat,vonal,megallo,keses_perc
 2026-11-10,23:15,6238,6238 passenger train,személy,Nyíregyháza – Záhony,100,Gégény,0
 2026-11-10,23:15,6138,6138 passenger train,személy,Debrecen – Nyíregyháza,,Nyíregyháza,0
 2026-11-10,23:15,2091,2091 passenger train,személy,Budapest – Óbuda,,Angyalföld,0
+2026-11-11,02:59,2619,2619 passenger train,személy,Budapest – Szolnok,100a,Szolnok,0
+2026-11-11,02:59,5719,5719 passenger train,személy,Hatvan – Szolnok,,Szolnok,0
+2026-11-11,02:59,8029,8029 passenger train,személy,Budapest – Pincehely,,Pincehely,0
+2026-11-11,02:59,39819,39819 passenger train,személy,Csorna – Szombathely,,Szombathely,0
+2026-11-11,02:59,6009,6009 CÍVIS InterRegio,IR,Budapest – Debrecen,100,Karcag,0
+2026-11-11,02:59,5119,5119 passenger train,személy,Miskolc – Nyíregyháza,80,Nyíregyháza,0
+2026-11-11,02:59,4910,4910 passenger train,személy,Budapest – Győr,1,Budapest-Déli,0
+2026-11-11,02:59,7,7 RUTHENIA fast train,IR,Chop – Szolnok,,Debrecen,41
+2026-11-11,02:59,9,9 TRANSCARPATHIA fast train,IR,Budapest – Kyiv,,Szolnok,0
+2026-11-11,02:59,4719,4719 passenger train,személy,Budapest – Székesfehérvár,30a,Székesfehérvár,0
+2026-11-11,02:59,32219,32219 passenger train,személy,Balassagyarmat – Vác,,Balassagyarmat,0
+2026-11-11,02:59,32419,32419 passenger train,személy,Fehérgyarmat – Zajta,,Jánkmajtis,0
+2026-11-11,02:59,3319,3319 passenger train,személy,Budapest – Szolnok,100a,Szolnok,0
+2026-11-11,02:59,8,8 RUTHENIA fast train,IR,Chop – Szolnok,,Nyíregyháza,0
+2026-11-11,02:59,10,10 TRANSCARPATHIA fast train,IR,Budapest – Kyiv,,Záhony,0
+2026-11-11,02:59,9119,9119 passenger train,személy,Szentgotthárd – Szombathely,,Szentgotthárd,0
+2026-11-11,02:59,2909,2909 passenger train,személy,Kőbánya – Lajosmizse,142,Örkény,0
+2026-11-11,02:59,346,346 DACIA - RUTHENIA EuroCity,IC,Bucureşti Nord – Wien Westbf,,Békéscsaba,0
+2026-11-11,02:59,38319,38319 passenger train,személy,Kaposvár – Tab,,Karád,2
+2026-11-11,02:59,347,347 DACIA EuroCity,IC,Bucureşti Nord – Wien Westbf,,Curtici,0
+2026-11-11,02:59,2819,2819 passenger train,személy,Budapest – Cegléd,100a,Cegléd,0
+2026-11-11,02:59,36019,36019 passenger train,személy,Nyíregyháza – Vásárosnamény,,Vásárosnamény,0
+2026-11-11,02:59,37710,37710 passenger train,személy,Püspökladány – Vésztő,,Vésztő,0
+2026-11-11,02:59,6020,6020 passenger train,személy,Budapest – Debrecen,100,Pestszentlőrinc,5
+2026-11-11,02:59,32410,32410 passenger train,személy,Fehérgyarmat – Mátészalka,,Mátészalka,0
