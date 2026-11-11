@@ -1,5 +1,5 @@
 {
- "frissitve": "2026-11-10T20:42:13.728618+01:00",
+ "frissitve": "2026-11-11T07:11:42.205950+01:00",
  "forras": "https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vaganyzar",
  "tetelek": [
   {
@@ -101,16 +101,6 @@
    "end": "2026-11-15",
    "desc": "Karbantartási munkák miatt az S74-es személyvonatok helyett Esztergom – Almásfüzitő között MÁVBUSZ-ok közlekednek. Due to reconstruction works, MÁVBUSZ services operate between Esztergom – Almásfüzitő instead of S74 local trains.",
    "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_4_mh_trkp_tokod_sutto_a4_web.pdf"
-  },
-  {
-   "line": "5",
-   "route": "Székesfehérvár – Komárom",
-   "startRaw": "2026. november 7.",
-   "endRaw": "2026. november 10.",
-   "start": "2026-11-07",
-   "end": "2026-11-10",
-   "desc": "Karbantartási munkák miatt Székesfehérvár és Komárom között valamennyi vonat helyett MÁVBUSZ-ok közlekednek. Due to reconstruction works, MÁVBUSZ services operate between Székesfehérvár and Komárom instead of all trains.",
-   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_5_szekesfehervar_komarom_web.pdf"
   },
   {
    "line": "8",
@@ -334,16 +324,6 @@
   },
   {
    "line": "60",
-   "route": "Pécs – Barcs",
-   "startRaw": "2026. november 6.",
-   "endRaw": "2026. november 10.",
-   "start": "2026-11-06",
-   "end": "2026-11-10",
-   "desc": "Karbantartási munkák miatt a Pécs – Barcs vonalon egy esti és egy hajnali vonat menetrendje módosul, helyettük Darány – Szigetvár között MÁVBUSZ-ok közlekednek. Due to maintenance works on the Pécs – Barcs line, a night train and an early morning train run according to a modified timetable. MÁVBUSZ services operate instead of trains between Darány – Szigetvár.",
-   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_60_darany-szigetvar_1106-1110.pdf"
-  },
-  {
-   "line": "60",
    "route": "",
    "startRaw": "2026. november 11.",
    "endRaw": "2026. november 14.",
@@ -493,26 +473,6 @@
    "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v8_hirdetmeny_110_kobanya-kispest_1104-1212.pdf"
   },
   {
-   "line": "120a",
-   "route": "Újszász – Szolnok – Békéscsaba",
-   "startRaw": "2026. november 4.",
-   "endRaw": "2026. december 12.",
-   "start": "2026-11-04",
-   "end": "2026-12-12",
-   "desc": "Karbantartás miatt a Budapest – Újszász – Szolnok – Békéscsaba vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Újszász – Szolnok – Békéscsaba line run according to a modified timetable.",
-   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v5_hirdetmeny_120a_kobanya-kispest_1104-1212.pdf"
-  },
-  {
-   "line": "120a",
-   "route": "Újszász – Szolnok – Lőkösháza",
-   "startRaw": "2026. november 13.",
-   "endRaw": "2026. november 16.",
-   "start": "2026-11-13",
-   "end": "2026-11-16",
-   "desc": "Karbantartási munkák miatt a Budapest – Újszász – Szolnok – Lőkösháza vonalon számos vonat módosított menetrend szerint közlekedik. Due to reconstruction works, numerous trains run according to modified timetable on the Budapest – Újszász – Szolnok – Lőkösháza line.",
-   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_120a_rakoshegy_-_maglod_1114-1116.pdf"
-  },
-  {
    "line": "120",
    "route": "Újszász – Szolnok – Békéscsaba",
    "startRaw": "2026. november 4.",
@@ -541,6 +501,26 @@
    "end": "2026-11-20",
    "desc": "Karbantartási munkák miatt a Szolnok – Békéscsaba – Lőkösháza vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to track reconstruction works, certain trains on the Szolnok – Békéscsaba – Lőkösháza line run according to a modified timetable.",
    "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_120_mezotur_1117_1120.pdf"
+  },
+  {
+   "line": "120a",
+   "route": "Újszász – Szolnok – Békéscsaba",
+   "startRaw": "2026. november 4.",
+   "endRaw": "2026. december 12.",
+   "start": "2026-11-04",
+   "end": "2026-12-12",
+   "desc": "Karbantartás miatt a Budapest – Újszász – Szolnok – Békéscsaba vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Újszász – Szolnok – Békéscsaba line run according to a modified timetable.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v5_hirdetmeny_120a_kobanya-kispest_1104-1212.pdf"
+  },
+  {
+   "line": "120a",
+   "route": "Újszász – Szolnok – Lőkösháza",
+   "startRaw": "2026. november 13.",
+   "endRaw": "2026. november 16.",
+   "start": "2026-11-13",
+   "end": "2026-11-16",
+   "desc": "Karbantartási munkák miatt a Budapest – Újszász – Szolnok – Lőkösháza vonalon számos vonat módosított menetrend szerint közlekedik. Due to reconstruction works, numerous trains run according to modified timetable on the Budapest – Újszász – Szolnok – Lőkösháza line.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_120a_rakoshegy_-_maglod_1114-1116.pdf"
   },
   {
    "line": "125",
