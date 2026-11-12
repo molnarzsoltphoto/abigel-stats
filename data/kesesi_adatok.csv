@@ -1,5 +1,4 @@
 datum,ido,osszes,kesik_db,atlag_perc,max_perc,zold_db,sarga_db,narancs_db,piros_db,legtobbet_keso,legtobbet_perc,tr_osszes,tr_kesik_db,tr_kesik_pct,tr_atlag_perc,tr_max_perc,tr_legtobbet_keso,tr_legtobbet_perc
-2026-09-12,01:38,43,8,42,105,35,2,5,1,261 railjet xpress,105,29,8,28,42,105,261 railjet xpress,105
 2026-09-13,01:30,42,5,75,277,37,2,2,1,H3111 HÉV,277,28,4,14,25,43,8 RUTHENIA fast train,43
 2026-09-14,01:44,21,3,32,50,18,0,3,0,9 TRANSCARPATHIA fast train,50,14,3,21,32,50,9 TRANSCARPATHIA fast train,50
 2026-09-15,02:03,16,0,0,0,15,0,0,0,,0,8,0,0,0,0,,0
@@ -59,3 +58,4 @@ datum,ido,osszes,kesik_db,atlag_perc,max_perc,zold_db,sarga_db,narancs_db,piros_
 2026-11-09,03:16,12,2,50,81,10,0,1,1,7 RUTHENIA fast train,81,11,2,18,50,81,7 RUTHENIA fast train,81
 2026-11-10,05:52,373,21,10,22,348,20,1,0,6020 passenger train,22,249,19,8,10,22,6020 passenger train,22
 2026-11-11,03:33,13,1,39,39,12,0,1,0,7 RUTHENIA fast train,39,13,1,8,39,39,7 RUTHENIA fast train,39
+2026-11-12,04:34,57,4,35,105,53,2,1,1,7 RUTHENIA fast train,105,53,4,8,35,105,7 RUTHENIA fast train,105
