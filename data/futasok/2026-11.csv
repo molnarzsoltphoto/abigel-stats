@@ -2324,3 +2324,17 @@ datum,ido,vonatszam,nev,szegmens,viszonylat,vonal,megallo,keses_perc
 2026-11-12,21:44,194,194 HERNÁD - ZEMPLÉN InterCity,IC,Budapest – Kosice,90,Novajidrány,23
 2026-11-12,21:44,4541,4541 passenger train,személy,Budapest – Székesfehérvár,30a,Székesfehérvár,0
 2026-11-12,21:44,8318,8318 GEMENC InterRegio,IR,Bátaszék – Székesfehérvár,,Fácánkert,2
+2026-11-13,02:45,9110,9110 passenger train,személy,Szentgotthárd – Szombathely,,Szombathely,0
+2026-11-13,02:45,6009,6009 CÍVIS InterRegio,IR,Budapest – Debrecen,100,Püspökladány,0
+2026-11-13,02:45,3019,3019 passenger train,személy,Budapest – Hatvan,80,Hatvan,0
+2026-11-13,02:45,7,7 RUTHENIA fast train,IR,Chop – Szolnok,,Debrecen,27
+2026-11-13,02:45,9,9 TRANSCARPATHIA fast train,IR,Budapest – Kyiv,,Szolnok,0
+2026-11-13,02:45,32419,32419 passenger train,személy,Fehérgyarmat – Zajta,,Rozsály,0
+2026-11-13,02:45,4819,4819 passenger train,személy,Budapest – Komárom,,Komárom,0
+2026-11-13,02:45,10,10 TRANSCARPATHIA fast train,IR,Budapest – Kyiv,,Nyíregyháza,0
+2026-11-13,02:45,8,8 RUTHENIA fast train,IR,Chop – Szolnok,,Záhony,0
+2026-11-13,02:45,2909,2909 passenger train,személy,Kőbánya – Lajosmizse,142,Felsőlajos,0
+2026-11-13,02:45,346,346 DACIA - RUTHENIA EuroCity,IC,Bucureşti Nord – Wien Westbf,,Békéscsaba,0
+2026-11-13,02:45,38319,38319 passenger train,személy,Kaposvár – Tab,,Somogymeggyes,1
+2026-11-13,02:45,2610,2610 passenger train,személy,Budapest – Szolnok,100a,Szolnok,17
+2026-11-13,02:45,6020,6020 passenger train,személy,Budapest – Debrecen,100,Kőbánya alsó,0
