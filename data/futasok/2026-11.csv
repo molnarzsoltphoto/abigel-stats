@@ -3802,3 +3802,20 @@ datum,ido,vonatszam,nev,szegmens,viszonylat,vonal,megallo,keses_perc
 2026-11-14,21:56,194,194 HERNÁD - ZEMPLÉN InterCity,IC,Budapest – Kosice,90,Hidasnémeti,5
 2026-11-14,21:56,4541,4541 passenger train,személy,Budapest – Székesfehérvár,30a,Dinnyés,2
 2026-11-14,21:56,8318,8318 GEMENC InterRegio,IR,Bátaszék – Székesfehérvár,,Tolna-Mözs,6
+2026-11-15,01:56,3030,3030 passenger train,személy,Budapest – Hatvan,80,Tura,5
+2026-11-15,01:56,9,9 TRANSCARPATHIA fast train,IR,Budapest – Kyiv,,Debrecen,0
+2026-11-15,01:56,4980,4980 passenger train,személy,Budapest – Győr,1,Herceghalom,6
+2026-11-15,01:56,8,8 RUTHENIA fast train,IR,Chop – Szolnok,,Nyíregyháza,0
+2026-11-15,01:56,4810,4810 passenger train,személy,Budapest – Komárom,,Szőny,14
+2026-11-15,01:56,2610,2610 passenger train,személy,Budapest – Szolnok,100a,Budai út,1
+2026-11-15,01:56,2620,2620 passenger train,személy,Budapest – Szolnok,100a,Pestszentlőrinc,0
+2026-11-15,01:56,2310,2310 passenger train,személy,Budapest – Szob,70,Zebegény,0
+2026-11-15,01:56,2080,2080 passenger train,személy,Budapest – Esztergom,2,Vörösvárbánya,0
+2026-11-15,01:56,2430,2430 passenger train,személy,Budapest – Vác,70,Rákosrendező,1
+2026-11-15,01:56,7,7 RUTHENIA fast train,IR,Chop – Szolnok,,Záhony,37
+2026-11-15,01:56,2500,2500 passenger train,személy,Budapest – Vác,70,Budapest-Nyugati,0
+2026-11-15,01:56,3100,3100 passenger train,személy,Budapest – Gödöllő,80a,Budapest-Keleti,0
+2026-11-15,01:56,10,10 TRANSCARPATHIA fast train,IR,Budapest – Kyiv,,Debrecen,0
+2026-11-15,01:56,4220,4220 passenger train,személy,Budapest – Dunaújváros,42,Adony,0
+2026-11-15,01:56,4780,4780 passenger train,személy,Budapest – Székesfehérvár,30a,Baracska,2
+2026-11-15,01:56,3612,3612 passenger train,személy,Budapest – Nagykáta,,Kőbánya felső,0
