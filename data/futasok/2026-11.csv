@@ -4583,3 +4583,23 @@ datum,ido,vonatszam,nev,szegmens,viszonylat,vonal,megallo,keses_perc
 2026-11-15,21:35,8551,8551 passenger train,személy,Balatonszentgyörgy – Nagykanizsa,,Zalakomár,4
 2026-11-15,21:35,194,194 HERNÁD - ZEMPLÉN InterCity,IC,Budapest – Kosice,90,Forró-Encs,25
 2026-11-15,21:35,8318,8318 GEMENC InterRegio,IR,Bátaszék – Székesfehérvár,,Vajta,14
+2026-11-16,01:22,2010,2010 passenger train,személy,Budapest – Esztergom,2,Piliscsév,4
+2026-11-16,01:22,2980,2980 passenger train,személy,Kőbánya – Lajosmizse,142,Pestszentimre,45
+2026-11-16,01:22,2310,2310 passenger train,személy,Budapest – Szob,70,Felsőgöd,2
+2026-11-16,01:22,3030,3030 passenger train,személy,Budapest – Hatvan,80,Isaszeg,0
+2026-11-16,01:22,7,7 RUTHENIA fast train,IR,Chop – Szolnok,,Záhony,52
+2026-11-16,01:22,3388,3388 passenger train,személy,Budapest – Szolnok,100a,Tápiószele,0
+2026-11-16,01:22,9,9 TRANSCARPATHIA fast train,IR,Budapest – Kyiv,,Nyíregyháza,0
+2026-11-16,01:22,4110,4110 passenger train,személy,Budapest – Pusztaszabolcs,40a,Érd felső,5
+2026-11-16,01:22,18748,18748 passenger train,személy,Budapest – Siófok,30,Siófok,0
+2026-11-16,01:22,8,8 RUTHENIA fast train,IR,Chop – Szolnok,,Debrecen,0
+2026-11-16,01:22,10,10 TRANSCARPATHIA fast train,IR,Budapest – Kyiv,,Debrecen,0
+2026-11-16,01:22,2510,2510 passenger train,személy,Budapest – Vác,70,Máriaudvar,1
+2026-11-16,01:22,4810,4810 passenger train,személy,Budapest – Komárom,,Tatabánya,5
+2026-11-16,01:22,347,347 DACIA - RUTHENIA EuroCity,IC,Bucureşti Nord – Wien Westbf,,Lőkösháza,0
+2026-11-16,01:22,2958,2958 passenger train,személy,Kőbánya – Lajosmizse,142,Lajosmizse,0
+2026-11-16,01:22,4770,4770 passenger train,személy,Budapest – Székesfehérvár,30a,Pettend,20
+2026-11-16,01:22,6098,6098 CÍVIS InterRegio,IR,Budapest – Debrecen,100,Kisújszállás,0
+2026-11-16,01:22,2610,2610 passenger train,személy,Budapest – Szolnok,100a,Hosszúberek-Péteri,3
+2026-11-16,01:22,3610,3610 passenger train,személy,Budapest – Nagykáta,,Maglód,4
+2026-11-16,01:22,2648,2648 passenger train,személy,Budapest – Szolnok,100a,Szolnok,0
