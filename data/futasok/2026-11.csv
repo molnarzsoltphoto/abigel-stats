@@ -5222,3 +5222,15 @@ datum,ido,vonatszam,nev,szegmens,viszonylat,vonal,megallo,keses_perc
 2026-11-16,17:55,684,684 TOKAJ InterCity,IC,IC TOKAJ,,Füzesabony,45
 2026-11-16,17:55,6073,6073 CÍVIS InterRegio,IR,Budapest – Debrecen,100,Cegléd,21
 2026-11-16,17:55,6076,6076 CÍVIS InterRegio,IR,Budapest – Debrecen,100,Karcag,15
+2026-11-17,01:43,8,8 RUTHENIA fast train,IR,Chop – Szolnok,,Debrecen,0
+2026-11-17,01:43,10,10 TRANSCARPATHIA fast train,IR,Budapest – Kyiv,,Debrecen,0
+2026-11-17,01:43,2980,2980 passenger train,személy,Kőbánya – Lajosmizse,142,Hernád,9
+2026-11-17,01:43,2310,2310 passenger train,személy,Budapest – Szob,70,Kismaros,1
+2026-11-17,01:43,4810,4810 passenger train,személy,Budapest – Komárom,,Almásfüzitő felső,4
+2026-11-17,01:43,3030,3030 passenger train,személy,Budapest – Hatvan,80,Bag,4
+2026-11-17,01:43,6098,6098 CÍVIS InterRegio,IR,Budapest – Debrecen,100,Ebes,0
+2026-11-17,01:43,3388,3388 passenger train,személy,Budapest – Szolnok,100a,Zagyvarékas,0
+2026-11-17,01:43,4110,4110 passenger train,személy,Budapest – Pusztaszabolcs,40a,Iváncsa,0
+2026-11-17,01:43,9,9 TRANSCARPATHIA fast train,IR,Budapest – Kyiv,,Debrecen,0
+2026-11-17,01:43,2610,2610 passenger train,személy,Budapest – Szolnok,100a,Albertirsa,5
+2026-11-17,01:43,3610,3610 passenger train,személy,Budapest – Nagykáta,,Tápiószecső,0
