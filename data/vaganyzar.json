@@ -1,5 +1,5 @@
 {
- "frissitve": "2026-11-17T08:52:12.158250+01:00",
+ "frissitve": "2026-11-17T21:52:58.036970+01:00",
  "forras": "https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vaganyzar",
  "tetelek": [
   {
@@ -81,6 +81,16 @@
    "end": "2026-11-22",
    "desc": "Az Ausztriában végzett pályafelújítási munkák miatt a Budapest és Zürich között közlekedő Railjet Xpress vonatok helyett Ötztal és Sargans között vonatpótló autóbuszok közlekednek, az éjszakai vonatok kerülő útirányon át közlekednek. Due to track reconstruction works in Austria, replacement buses operate between Ötztal and Sargans instead of Railjet Xpress trains. The night trains run on a diverted route.",
    "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/10-63_tajekoztato_allgau-otztal_261118-22.pdf"
+  },
+  {
+   "line": "0",
+   "route": "",
+   "startRaw": "2026. november 28.",
+   "endRaw": "2026. december 5.",
+   "start": "2026-11-28",
+   "end": "2026-12-05",
+   "desc": "A Németországban végzett pályafelújítási munkák miatt a HUNGÁRIA Railjet vonatok menetrendje módosul. Due to track reconstruction works in Germany, the HUNGÁRIA Railjet trains run according to modified timetables.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/10-67_tajekoztato_261129-1205_hungaria_a3.pdf"
   },
   {
    "line": "1",
@@ -580,7 +590,7 @@
    "start": "2026-08-03",
    "end": "2026-12-12",
    "desc": "Karbantartási munkák miatt a vonatok menetrendje módosul, Kiskunfélegyháza és Szentes között MÁVBUSZ-ok közlekednek. Due to track reconstruction works, some trains run according to modified timetable, MÁVBUSZ services operate between Kiskunfélegyháza and Szentes stations.",
-   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_147_mh_trkp_a4_20407.pdf"
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_147_mh_trkp_a4_20407_0.pdf"
   },
   {
    "line": "147",
@@ -590,7 +600,7 @@
    "start": "2026-08-03",
    "end": "2026-12-12",
    "desc": "Karbantartási munkák miatt a vonatok menetrendje módosul, Kiskunfélegyháza és Szentes között MÁVBUSZ-ok közlekednek. Due to track reconstruction works, some trains run according to modified timetable, MÁVBUSZ services operate between Kiskunfélegyháza and Szentes stations.",
-   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_147_mh_trkp_a4_20407_0.pdf"
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_147_mh_trkp_a4_20407.pdf"
   }
  ]
 }
