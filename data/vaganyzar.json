@@ -1,5 +1,5 @@
 {
- "frissitve": "2026-11-16T22:58:57.490166+01:00",
+ "frissitve": "2026-11-17T08:52:12.158250+01:00",
  "forras": "https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vaganyzar",
  "tetelek": [
   {
@@ -423,16 +423,6 @@
    "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v5_hirdetmeny_120a_kobanya-kispest_1104-1212.pdf"
   },
   {
-   "line": "120a",
-   "route": "Újszász – Szolnok – Lőkösháza",
-   "startRaw": "2026. november 13.",
-   "endRaw": "2026. november 16.",
-   "start": "2026-11-13",
-   "end": "2026-11-16",
-   "desc": "Karbantartási munkák miatt a Budapest – Újszász – Szolnok – Lőkösháza vonalon számos vonat módosított menetrend szerint közlekedik. Due to reconstruction works, numerous trains run according to modified timetable on the Budapest – Újszász – Szolnok – Lőkösháza line.",
-   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_120a_rakoshegy_-_maglod_1114-1116.pdf"
-  },
-  {
    "line": "120",
    "route": "Újszász – Szolnok – Békéscsaba",
    "startRaw": "2026. november 4.",
@@ -441,16 +431,6 @@
    "end": "2026-12-12",
    "desc": "Karbantartás miatt a Budapest – Újszász – Szolnok – Békéscsaba vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Újszász – Szolnok – Békéscsaba line run according to a modified timetable.",
    "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v6_hirdetmeny_120_kobanya-kispest_1104-1212.pdf"
-  },
-  {
-   "line": "120",
-   "route": "Újszász – Szolnok – Lőkösháza",
-   "startRaw": "2026. november 13.",
-   "endRaw": "2026. november 16.",
-   "start": "2026-11-13",
-   "end": "2026-11-16",
-   "desc": "Karbantartási munkák miatt a Budapest – Újszász – Szolnok – Lőkösháza vonalon számos vonat módosított menetrend szerint közlekedik. Due to reconstruction works, numerous trains run according to modified timetable on the Budapest – Újszász – Szolnok – Lőkösháza line.",
-   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v2_hirdetmeny_120_rakoshegy_-_maglod_1114-1115.pdf"
   },
   {
    "line": "120",
