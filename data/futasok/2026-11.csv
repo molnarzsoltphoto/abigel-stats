@@ -5773,3 +5773,16 @@ datum,ido,vonatszam,nev,szegmens,viszonylat,vonal,megallo,keses_perc
 2026-11-17,19:25,684,684 TOKAJ InterCity,IC,IC TOKAJ,,Budapest-Keleti,74
 2026-11-17,19:25,9128,9128 passenger train,személy,Szentgotthárd – Szombathely,,Szombathely,0
 2026-11-17,19:25,39811,39811 passenger train,személy,Csorna – Szombathely,,Dénesfa,3
+2026-11-18,02:18,9829,9829 passenger train,személy,Szombathely – Zalaegerszeg,,Zalaegerszeg,0
+2026-11-18,02:18,6009,6009 CÍVIS InterRegio,IR,Budapest – Debrecen,100,Debrecen,5
+2026-11-18,02:18,3351,3351 passenger train,személy,Budapest – Szolnok,100a,Kőbánya felső,0
+2026-11-18,02:18,6020,6020 passenger train,személy,Budapest – Debrecen,100,Budapest-Nyugati,0
+2026-11-18,02:18,7,7 RUTHENIA fast train,IR,Chop – Szolnok,,Nyíregyháza,50
+2026-11-18,02:18,9,9 TRANSCARPATHIA fast train,IR,Budapest – Kyiv,,Szolnok,0
+2026-11-18,02:18,347,347 DACIA EuroCity,IC,Bucureşti Nord – Wien Westbf,,Lőkösháza,0
+2026-11-18,02:18,9159,9159 passenger train,személy,Sopron – Szombathely,,Szombathely,0
+2026-11-18,02:18,8,8 RUTHENIA fast train,IR,Chop – Szolnok,,Nyíregyháza,0
+2026-11-18,02:18,10,10 TRANSCARPATHIA fast train,IR,Budapest – Kyiv,,Nyíregyháza,0
+2026-11-18,02:18,346,346 DACIA - RUTHENIA EuroCity,IC,Bucureşti Nord – Wien Westbf,,Lőkösháza,0
+2026-11-18,02:18,38319,38319 passenger train,személy,Kaposvár – Tab,,Tab,0
+2026-11-18,02:18,2610,2610 passenger train,személy,Budapest – Szolnok,100a,Cegléd,21
