@@ -1,5 +1,5 @@
 {
- "frissitve": "2026-11-18T08:24:49.948475+01:00",
+ "frissitve": "2026-11-18T21:28:56.043567+01:00",
  "forras": "https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vaganyzar",
  "tetelek": [
   {
@@ -240,7 +240,7 @@
    "start": "2026-11-21",
    "end": "2026-12-06",
    "desc": "Karbantartási munkák miatt a székesfehérvári vonalon napközben egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Székesfehérvár line operate according to a modified timetable during the daytime.",
-   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_30a_tarnok_-_martonvasar_1121-1206.pdf"
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_30a_tarnok_-_martonvasar_1121-1206_v1117.pdf"
   },
   {
    "line": "30",
@@ -371,6 +371,16 @@
    "end": "2026-11-29",
    "desc": "Karbantartás miatt a Budapest – Cegléd – Szolnok vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Cegléd – Szolnok line run according to a modified timetable.",
    "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v2_hirdetmeny_100_kobanya-kispest_-_pestszentlorinc_1121-1129.pdf"
+  },
+  {
+   "line": "100",
+   "route": "Szolnok – Debrecen – Záhony",
+   "startRaw": "2026. december 2.",
+   "endRaw": "2026. december 12.",
+   "start": "2026-12-02",
+   "end": "2026-12-12",
+   "desc": "Karbantartás miatt a Budapest – Szolnok – Debrecen – Záhony vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Szolnok – Debrecen – Záhony line run according to a modified timetable.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v9_hirdetmeny_100_kobanya-kispest_1202-1212.pdf"
   },
   {
    "line": "100a",
@@ -590,7 +600,7 @@
    "start": "2026-08-03",
    "end": "2026-12-12",
    "desc": "Karbantartási munkák miatt a vonatok menetrendje módosul, Kiskunfélegyháza és Szentes között MÁVBUSZ-ok közlekednek. Due to track reconstruction works, some trains run according to modified timetable, MÁVBUSZ services operate between Kiskunfélegyháza and Szentes stations.",
-   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_147_mh_trkp_a4_20407_0.pdf"
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_147_mh_trkp_a4_20407.pdf"
   },
   {
    "line": "147",
@@ -600,7 +610,7 @@
    "start": "2026-08-03",
    "end": "2026-12-12",
    "desc": "Karbantartási munkák miatt a vonatok menetrendje módosul, Kiskunfélegyháza és Szentes között MÁVBUSZ-ok közlekednek. Due to track reconstruction works, some trains run according to modified timetable, MÁVBUSZ services operate between Kiskunfélegyháza and Szentes stations.",
-   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_147_mh_trkp_a4_20407.pdf"
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_147_mh_trkp_a4_20407_0.pdf"
   }
  ]
 }
