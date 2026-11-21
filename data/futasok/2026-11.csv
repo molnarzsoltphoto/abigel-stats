@@ -7530,3 +7530,22 @@ datum,ido,vonatszam,nev,szegmens,viszonylat,vonal,megallo,keses_perc
 2026-11-20,21:33,8551,8551 passenger train,személy,Balatonszentgyörgy – Nagykanizsa,,Zalakomár,2
 2026-11-20,21:33,811,811 MECSEK InterCity,IC,Budapest – Pécs,40,Budapest-Kelenföld,9
 2026-11-20,21:33,266,266 railjet xpress,IC,Budapest – Wien Hbf,,Mosonmagyaróvár,12
+2026-11-21,02:44,9110,9110 passenger train,személy,Szentgotthárd – Szombathely,,Szombathely,0
+2026-11-21,02:44,2020,2020 passenger train,személy,Budapest – Esztergom,2,Óbuda,0
+2026-11-21,02:44,32419,32419 passenger train,személy,Fehérgyarmat – Zajta,,Rozsály,-1
+2026-11-21,02:44,2909,2909 passenger train,személy,Kőbánya – Lajosmizse,142,Felsőlajos,0
+2026-11-21,02:44,4980,4980 passenger train,személy,Budapest – Győr,1,Komárom,1
+2026-11-21,02:44,4790,4790 passenger train,személy,Budapest – Székesfehérvár,30a,Budapest-Kelenföld,0
+2026-11-21,02:44,6020,6020 passenger train,személy,Budapest – Debrecen,100,Kőbánya alsó,2
+2026-11-21,02:44,8,8 RUTHENIA fast train,IR,Chop – Szolnok,,Nyíregyháza,0
+2026-11-21,02:44,2620,2620 passenger train,személy,Budapest – Szolnok,100a,Albertirsa,2
+2026-11-21,02:44,6009,6009 CÍVIS InterRegio,IR,Budapest – Debrecen,100,Püspökladány,4
+2026-11-21,02:44,2619,2619 passenger train,személy,Budapest – Szolnok,100a,Szolnok,0
+2026-11-21,02:44,346,346 DACIA - RUTHENIA EuroCity,IC,Bucureşti Nord – Wien Westbf,,Békéscsaba,0
+2026-11-21,02:44,38319,38319 passenger train,személy,Kaposvár – Tab,,Somogymeggyes,1
+2026-11-21,02:44,7029,7029 fast train,IR,Budapest – Szeged,140,Szeged,0
+2026-11-21,02:44,2330,2330 passenger train,személy,Budapest – Szob,70,Budapest-Nyugati,0
+2026-11-21,02:44,2500,2500 passenger train,személy,Budapest – Vác,70,Ivacs,1
+2026-11-21,02:44,10,10 TRANSCARPATHIA fast train,IR,Budapest – Kyiv,,Nyíregyháza,0
+2026-11-21,02:44,3612,3612 passenger train,személy,Budapest – Nagykáta,,Szentmártonkáta,0
+2026-11-21,02:44,36019,36019 passenger train,személy,Nyíregyháza – Vásárosnamény,,Vásárosnamény,0
