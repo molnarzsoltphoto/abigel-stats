@@ -8790,3 +8790,40 @@ datum,ido,vonatszam,nev,szegmens,viszonylat,vonal,megallo,keses_perc
 2026-11-22,18:45,6096,6096 CÍVIS InterRegio,IR,Budapest – Debrecen,100,Abony,8
 2026-11-22,18:45,39811,39811 passenger train,személy,Csorna – Szombathely,,Porpác,1
 2026-11-22,18:45,8111,8111 passenger train,személy,Beli Manastir – Pécs,,Vokány,11
+2026-11-23,00:30,3068,3068 passenger train,személy,Budapest – Hatvan,80,Isaszeg,0
+2026-11-23,00:30,5021,5021 passenger train,személy,Füzesabony – Miskolc,,Füzesabony,18
+2026-11-23,00:30,36028,36028 passenger train,személy,Nyíregyháza – Vásárosnamény,,Nyírmada,23
+2026-11-23,00:30,5008,5008 fast train,IR,Budapest – Miskolc,80,Nyékládháza,18
+2026-11-23,00:30,261,261 railjet xpress,IC,Budapest – München Hbf Gl.5,,Budapest-Keleti,10
+2026-11-23,00:30,5018,5018 passenger train,személy,Budapest – Füzesabony,,Ludas,0
+2026-11-23,00:30,4810,4810 passenger train,személy,Budapest – Komárom,,Budapest-Kelenföld,1
+2026-11-23,00:30,36638,36638 passenger train,személy,Debrecen – Tiszalök,109,Tiszalök,21
+2026-11-23,00:30,2638,2638 passenger train,személy,Budapest – Szolnok,100a,Szolnok,0
+2026-11-23,00:30,32258,32258 passenger train,személy,Balassagyarmat – Vác,,Balassagyarmat,0
+2026-11-23,00:30,2610,2610 passenger train,személy,Budapest – Szolnok,100a,Budapest-Nyugati,0
+2026-11-23,00:30,18748,18748 passenger train,személy,Budapest – Siófok,30,Székesfehérvár,-5
+2026-11-23,00:30,4951,4951 passenger train,személy,Budapest – Győr,1,Budapest-Kelenföld,7
+2026-11-23,00:30,7028,7028 fast train,IR,Budapest – Szeged,140,Kistelek,0
+2026-11-23,00:30,2621,2621 passenger train,személy,Budapest – Szolnok,100a,Budapest-Nyugati,0
+2026-11-23,00:30,6248,6248 passenger train,személy,Nyíregyháza – Záhony,100,Kisvárda,10
+2026-11-23,00:30,9,9 TRANSCARPATHIA fast train,IR,Budapest – Kyiv,,Záhony,97
+2026-11-23,00:30,4110,4110 passenger train,személy,Budapest – Pusztaszabolcs,40a,Budapest-Déli,0
+2026-11-23,00:30,6098,6098 CÍVIS InterRegio,IR,Budapest – Debrecen,100,Fegyvernek-Örményes,13
+2026-11-23,00:30,6088,6088 CÍVIS InterRegio,IR,Budapest – Debrecen,100,Debrecen,13
+2026-11-23,00:30,2958,2958 passenger train,személy,Kőbánya – Lajosmizse,142,Felsőlajos,13
+2026-11-23,00:30,8,8 RUTHENIA fast train,IR,Chop – Szolnok,,Debrecen,24
+2026-11-23,00:30,2648,2648 passenger train,személy,Budapest – Szolnok,100a,Monor,2
+2026-11-23,00:30,2398,2398 passenger train,személy,Budapest – Szob,70,Vác,-1
+2026-11-23,00:30,2010,2010 passenger train,személy,Budapest – Esztergom,2,Rákosrendező,0
+2026-11-23,00:30,2980,2980 passenger train,személy,Kőbánya – Lajosmizse,142,Kispest,0
+2026-11-23,00:30,5158,5158 passenger train,személy,Miskolc – Nyíregyháza,80,Tarcal,30
+2026-11-23,00:30,3388,3388 passenger train,személy,Budapest – Szolnok,100a,Pusztaszentistván,0
+2026-11-23,00:30,4148,4148 passenger train,személy,Budapest – Pusztaszabolcs,40a,Dunai Finomító,0
+2026-11-23,00:30,3378,3378 passenger train,személy,Budapest – Szolnok,100a,Újszász,0
+2026-11-23,00:30,2181,2181 passenger train,személy,Budapest – Esztergom,2,Óbuda,0
+2026-11-23,00:30,10,10 TRANSCARPATHIA fast train,IR,Budapest – Kyiv,,Szolnok,21
+2026-11-23,00:30,2510,2510 passenger train,személy,Budapest – Vác,70,Rákospalota-Újpest,1
+2026-11-23,00:30,9119,9119 passenger train,személy,Szentgotthárd – Szombathely,,Szentgotthárd,0
+2026-11-23,00:30,347,347 DACIA - RUTHENIA EuroCity,IC,Bucureşti Nord – Wien Westbf,,Békéscsaba,34
+2026-11-23,00:30,4770,4770 passenger train,személy,Budapest – Székesfehérvár,30a,Budapest-Kelenföld,3
+2026-11-23,00:30,4968,4968 passenger train,személy,Budapest – Győr,1,Tata,4
