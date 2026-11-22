@@ -8218,3 +8218,47 @@ datum,ido,vonatszam,nev,szegmens,viszonylat,vonal,megallo,keses_perc
 2026-11-21,23:07,6238,6238 passenger train,személy,Nyíregyháza – Záhony,100,Kemecse,12
 2026-11-21,23:07,6138,6138 passenger train,személy,Debrecen – Nyíregyháza,,Újfehértó,0
 2026-11-21,23:07,2091,2091 passenger train,személy,Budapest – Óbuda,,Óbuda,0
+2026-11-22,03:22,5130,5130 passenger train,személy,Nyíregyháza – Szerencs,,Szerencs,0
+2026-11-22,03:22,6319,6319 passenger train,személy,Debrecen – Mátészalka,,Nyírcsászári,1
+2026-11-22,03:22,5719,5719 passenger train,személy,Hatvan – Szolnok,,Újszász,0
+2026-11-22,03:22,5119,5119 passenger train,személy,Miskolc – Nyíregyháza,80,Virányos,0
+2026-11-22,03:22,4910,4910 passenger train,személy,Budapest – Győr,1,Budaörs,0
+2026-11-22,03:22,32219,32219 passenger train,személy,Balassagyarmat – Vác,,Balassagyarmat,0
+2026-11-22,03:22,4790,4790 passenger train,személy,Budapest – Székesfehérvár,30a,Pettend,2
+2026-11-22,03:22,6020,6020 passenger train,személy,Budapest – Debrecen,100,Hosszúberek-Péteri,7
+2026-11-22,03:22,36619,36619 passenger train,személy,Debrecen – Tiszalök,109,Tiszalök,0
+2026-11-22,03:22,38310,38310 passenger train,személy,Kaposvár – Siófok,,Kaposvár,0
+2026-11-22,03:22,2620,2620 passenger train,személy,Budapest – Szolnok,100a,Szolnok,0
+2026-11-22,03:22,2519,2519 passenger train,személy,Budapest – Vác,70,Vác,0
+2026-11-22,03:22,38319,38319 passenger train,személy,Kaposvár – Tab,,Bonnya,-2
+2026-11-22,03:22,4219,4219 passenger train,személy,Dunaújváros – Pusztaszabolcs,,Dunaújváros,0
+2026-11-22,03:22,7029,7029 fast train,IR,Budapest – Szeged,140,Szeged,0
+2026-11-22,03:22,2330,2330 passenger train,személy,Budapest – Szob,70,Sződ-Sződliget,0
+2026-11-22,03:22,7,7 RUTHENIA fast train,IR,Chop – Szolnok,,Szolnok,6
+2026-11-22,03:22,2500,2500 passenger train,személy,Budapest – Vác,70,Vác,0
+2026-11-22,03:22,346,346 DACIA - RUTHENIA EuroCity,IC,Bucureşti Nord – Wien Westbf,,Békéscsaba,0
+2026-11-22,03:22,36319,36319 passenger train,személy,Mátészalka – Tiborszállás,115,Nyírcsaholy,0
+2026-11-22,03:22,4529,4529 passenger train,személy,Budapest – Székesfehérvár,30a,Székesfehérvár,0
+2026-11-22,03:22,3319,3319 passenger train,személy,Budapest – Szolnok,100a,Tápiógyörgye,0
+2026-11-22,03:22,36019,36019 passenger train,személy,Nyíregyháza – Vásárosnamény,,Nyírmada,1
+2026-11-22,03:22,37710,37710 passenger train,személy,Püspökladány – Vésztő,,Szeghalom,0
+2026-11-22,03:22,32410,32410 passenger train,személy,Fehérgyarmat – Mátészalka,,Tunyogmatolcs,0
+2026-11-22,03:22,5819,5819 passenger train,személy,Hatvan – Somoskőújfalu,81,Salgótarján külső,0
+2026-11-22,03:22,35419,35419 passenger train,személy,Miskolc – Tornanádaska,,Bódvaszilas,1
+2026-11-22,03:22,2020,2020 passenger train,személy,Budapest – Esztergom,2,Leányvár,1
+2026-11-22,03:22,5029,5029 InterRegio,IR,Budapest – Füzesabony,,Füzesabony,0
+2026-11-22,03:22,9,9 TRANSCARPATHIA fast train,IR,Budapest – Kyiv,,Szolnok,0
+2026-11-22,03:22,987,987 SCARBANTIA InterCity,IC,Budapest – Sopron,8,Sopron,0
+2026-11-22,03:22,32419,32419 passenger train,személy,Fehérgyarmat – Zajta,,Kisszekeres,1
+2026-11-22,03:22,2909,2909 passenger train,személy,Kőbánya – Lajosmizse,142,Inárcs-Kakucs,0
+2026-11-22,03:22,8,8 RUTHENIA fast train,IR,Chop – Szolnok,,Debrecen,0
+2026-11-22,03:22,6009,6009 CÍVIS InterRegio,IR,Budapest – Debrecen,100,Kisújszállás,19
+2026-11-22,03:22,2619,2619 passenger train,személy,Budapest – Szolnok,100a,Cegléd,1
+2026-11-22,03:22,6019,6019 CÍVIS InterRegio,IR,Budapest – Debrecen,100,Debrecen,0
+2026-11-22,03:22,5519,5519 passenger train,személy,Eger – Füzesabony,,Eger,0
+2026-11-22,03:22,8559,8559 passenger train,személy,Balatonszentgyörgy – Nagykanizsa,,Nagykanizsa,0
+2026-11-22,03:22,8029,8029 passenger train,személy,Budapest – Pincehely,,Rétszilas,1
+2026-11-22,03:22,4719,4719 passenger train,személy,Budapest – Székesfehérvár,30a,Dinnyés,0
+2026-11-22,03:22,5009,5009 fast train,IR,Budapest – Miskolc,80,Miskolc-Tiszai,0
+2026-11-22,03:22,10,10 TRANSCARPATHIA fast train,IR,Budapest – Kyiv,,Záhony,0
+2026-11-22,03:22,347,347 DACIA - RUTHENIA EuroCity,IC,Bucureşti Nord – Wien Westbf,,Békéscsaba,0
