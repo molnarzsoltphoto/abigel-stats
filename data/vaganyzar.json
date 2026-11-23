@@ -1,5 +1,5 @@
 {
- "frissitve": "2026-11-23T08:32:41.913992+01:00",
+ "frissitve": "2026-11-24T00:51:37.588731+01:00",
  "forras": "https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vaganyzar",
  "tetelek": [
   {
@@ -393,16 +393,6 @@
    "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v8_hirdetmeny_110_kobanya-kispest_1104-1212.pdf"
   },
   {
-   "line": "120a",
-   "route": "Újszász – Szolnok – Békéscsaba",
-   "startRaw": "2026. november 4.",
-   "endRaw": "2026. december 12.",
-   "start": "2026-11-04",
-   "end": "2026-12-12",
-   "desc": "Karbantartás miatt a Budapest – Újszász – Szolnok – Békéscsaba vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Újszász – Szolnok – Békéscsaba line run according to a modified timetable.",
-   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v5_hirdetmeny_120a_kobanya-kispest_1104-1212.pdf"
-  },
-  {
    "line": "120",
    "route": "Újszász – Szolnok – Békéscsaba",
    "startRaw": "2026. november 4.",
@@ -413,14 +403,14 @@
    "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v6_hirdetmeny_120_kobanya-kispest_1104-1212.pdf"
   },
   {
-   "line": "127",
-   "route": "Szeghalom – Gyoma",
-   "startRaw": "2026. november 20.",
-   "endRaw": "2026. november 23.",
-   "start": "2026-11-20",
-   "end": "2026-11-23",
-   "desc": "Karbantartás miatt egyes délutáni és esti vonatok menetrendje módosul, Szeghalom – Gyoma között MÁVBUSZ-ok közlekednek. Due to reconstruction works, certain afternoon and evening trains run according to a modified timetable, MÁVBUSZ services operate between Szeghalom and Gyoma.",
-   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_127_devavanya_gyoma_1120_1123_v1022.pdf"
+   "line": "120a",
+   "route": "Újszász – Szolnok – Békéscsaba",
+   "startRaw": "2026. november 4.",
+   "endRaw": "2026. december 12.",
+   "start": "2026-11-04",
+   "end": "2026-12-12",
+   "desc": "Karbantartás miatt a Budapest – Újszász – Szolnok – Békéscsaba vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Újszász – Szolnok – Békéscsaba line run according to a modified timetable.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v5_hirdetmeny_120a_kobanya-kispest_1104-1212.pdf"
   },
   {
    "line": "127",
