@@ -9391,3 +9391,20 @@ datum,ido,vonatszam,nev,szegmens,viszonylat,vonal,megallo,keses_perc
 2026-11-23,15:24,684,684 TOKAJ InterCity,IC,IC TOKAJ,,Nyíregyháza,9
 2026-11-23,15:24,6073,6073 CÍVIS InterRegio,IR,Budapest – Debrecen,100,Debrecen,0
 2026-11-23,15:24,6076,6076 CÍVIS InterRegio,IR,Budapest – Debrecen,100,Zugló,1
+2026-11-24,02:53,2619,2619 passenger train,személy,Budapest – Szolnok,100a,Szolnok,0
+2026-11-24,02:53,6009,6009 CÍVIS InterRegio,IR,Budapest – Debrecen,100,Karcag,1
+2026-11-24,02:53,8029,8029 passenger train,személy,Budapest – Pincehely,,Pincehely,0
+2026-11-24,02:53,5119,5119 passenger train,személy,Miskolc – Nyíregyháza,80,Nyíregyháza,0
+2026-11-24,02:53,3019,3019 passenger train,személy,Budapest – Hatvan,80,Hatvan,0
+2026-11-24,02:53,3329,3329 passenger train,személy,Budapest – Szolnok,100a,Szolnok,0
+2026-11-24,02:53,9,9 TRANSCARPATHIA fast train,IR,Budapest – Kyiv,,Szolnok,0
+2026-11-24,02:53,32419,32419 passenger train,személy,Fehérgyarmat – Zajta,,Gacsály,0
+2026-11-24,02:53,8,8 RUTHENIA fast train,IR,Chop – Szolnok,,Záhony,0
+2026-11-24,02:53,10,10 TRANSCARPATHIA fast train,IR,Budapest – Kyiv,,Záhony,0
+2026-11-24,02:53,3319,3319 passenger train,személy,Budapest – Szolnok,100a,Szolnok,0
+2026-11-24,02:53,2909,2909 passenger train,személy,Kőbánya – Lajosmizse,142,Örkény,0
+2026-11-24,02:53,346,346 DACIA - RUTHENIA EuroCity,IC,Bucureşti Nord – Wien Westbf,,Békéscsaba,0
+2026-11-24,02:53,38319,38319 passenger train,személy,Kaposvár – Tab,,Karád,0
+2026-11-24,02:53,7029,7029 fast train,IR,Budapest – Szeged,140,Szeged,0
+2026-11-24,02:53,2819,2819 passenger train,személy,Budapest – Cegléd,100a,Cegléd,0
+2026-11-24,02:53,6020,6020 passenger train,személy,Budapest – Debrecen,100,Pestszentlőrinc,0
