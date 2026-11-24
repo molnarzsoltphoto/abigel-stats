@@ -1,5 +1,5 @@
 {
- "frissitve": "2026-11-24T10:51:29.736622+01:00",
+ "frissitve": "2026-11-24T23:24:18.720803+01:00",
  "forras": "https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vaganyzar",
  "tetelek": [
   {
@@ -143,6 +143,16 @@
    "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v4_hirdetmeny_16_szarliget_-_tatabanya_1128-1206.pdf"
   },
   {
+   "line": "16",
+   "route": "Szombathely – Hegyeshalom",
+   "startRaw": "2026. december 7.",
+   "endRaw": "2026. december 9.",
+   "start": "2026-12-07",
+   "end": "2026-12-09",
+   "desc": "A Szombathely – Hegyeshalom vasútvonalon végzett pályakarbantartási munkák miatt a hirdetményen szereplő vonatok a fejlécükben megjelölt napokon módosított menetrend szerint közlekednek. Szombathely / Porpác – Csorna, illetve Répcelak - Csorna állomások között vonatpótló autóbuszok közlekednek a sárga alapon megjelölt módosított menetrend szerint.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/vaganyzari_hirdetmeny_2026.12.07-12.09_porpac-csorna_repcelak-csorna_vaganyzar_1620_vonali_szemelyvonati_hirdetmenye.pdf"
+  },
+  {
    "line": "17",
    "route": "Szombathely – Zalaszentiván",
    "startRaw": "2026. november 9.",
@@ -151,6 +161,16 @@
    "end": "2026-11-28",
    "desc": "A Szombathely – Zalaszentiván vasútvonalon végzett pályakarbantartási munkák miatt a hirdetményen szereplő vonatok helyett a fejlécükben megjelölt napokon Egervár-Vasboldogasszony – Zalaegerszeg állomások között vonatpótló autóbuszok közlekednek a sárga alapon megjelölt menetrend szerint. Zalaszentlőrinc - Zalaszentiván állomások között a kék alapon megjelölt menetrend szerint összekötő járatok közlekednek.",
    "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/vaganyzari_hirdetmeny_2026.11.09-11.28_egervar-vasboldogasszony-zalaegerszeg_vaganyzar_1725_vonali_hirdetmenye.pdf"
+  },
+  {
+   "line": "20",
+   "route": "Szombathely – Hegyeshalom",
+   "startRaw": "2026. december 7.",
+   "endRaw": "2026. december 9.",
+   "start": "2026-12-07",
+   "end": "2026-12-09",
+   "desc": "A Szombathely – Hegyeshalom vasútvonalon végzett pályakarbantartási munkák miatt a hirdetményen szereplő vonatok a fejlécükben megjelölt napokon módosított menetrend szerint közlekednek. Szombathely / Porpác – Csorna, illetve Répcelak - Csorna állomások között vonatpótló autóbuszok közlekednek a sárga alapon megjelölt módosított menetrend szerint.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/vaganyzari_hirdetmeny_2026.12.07-12.09_porpac-csorna_repcelak-csorna_vaganyzar_1620_vonali_szemelyvonati_hirdetmenye.pdf"
   },
   {
    "line": "21",
@@ -256,11 +276,11 @@
    "line": "78",
    "route": "Aszód – Balassagyarmat",
    "startRaw": "2026. november 28.",
-   "endRaw": "2026. december 11.",
+   "endRaw": "2026. december 12.",
    "start": "2026-11-28",
-   "end": "2026-12-11",
+   "end": "2026-12-12",
    "desc": "Karbantartási munkák miatt a személyvonatok helyett Aszód és Balassagyarmat között MÁVBUSZ-ok közlekednek. Due to reconstruction works, MÁVBUSZ services operate between Aszód and Balassagyarmat instead of local trains.",
-   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_78_aszod_-_balassagyarmat_1128-1211.pdf"
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_78_aszod_-_balassagyarmat_1128-1212_v1124.pdf"
   },
   {
    "line": "80a",
@@ -313,26 +333,6 @@
    "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_80_87a_fuzesabony-mezokovesd_2026.11.09-11.25_v1029_0.pdf"
   },
   {
-   "line": "100a",
-   "route": "Budapest – Cegléd – Szeged",
-   "startRaw": "2026. november 4.",
-   "endRaw": "2026. december 1.",
-   "start": "2026-11-04",
-   "end": "2026-12-01",
-   "desc": "Karbantartás miatt a Budapest – Cegléd – Záhony és a Budapest – Cegléd – Szeged vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Cegléd – Záhony and on the a Budapest – Cegléd – Szeged lines run according to a modified timetable.",
-   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_100a_kobanya-kispest_1104-1201_v1027.pdf"
-  },
-  {
-   "line": "100a",
-   "route": "Budapest – Cegléd – Szolnok",
-   "startRaw": "2026. november 21.",
-   "endRaw": "2026. november 29.",
-   "start": "2026-11-21",
-   "end": "2026-11-29",
-   "desc": "Karbantartás miatt a Budapest – Cegléd – Szolnok vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Cegléd – Szolnok line run according to a modified timetable.",
-   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_100a_kobanya-kispest_-_pestszentlorinc_1121-1129_v1110.pdf"
-  },
-  {
    "line": "100",
    "route": "Budapest – Cegléd – Szeged",
    "startRaw": "2026. november 4.",
@@ -361,6 +361,26 @@
    "end": "2026-12-12",
    "desc": "Karbantartás miatt a Budapest – Szolnok – Debrecen – Záhony vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Szolnok – Debrecen – Záhony line run according to a modified timetable.",
    "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v9_hirdetmeny_100_kobanya-kispest_1202-1212.pdf"
+  },
+  {
+   "line": "100a",
+   "route": "Budapest – Cegléd – Szeged",
+   "startRaw": "2026. november 4.",
+   "endRaw": "2026. december 1.",
+   "start": "2026-11-04",
+   "end": "2026-12-01",
+   "desc": "Karbantartás miatt a Budapest – Cegléd – Záhony és a Budapest – Cegléd – Szeged vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Cegléd – Záhony and on the a Budapest – Cegléd – Szeged lines run according to a modified timetable.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_100a_kobanya-kispest_1104-1201_v1027.pdf"
+  },
+  {
+   "line": "100a",
+   "route": "Budapest – Cegléd – Szolnok",
+   "startRaw": "2026. november 21.",
+   "endRaw": "2026. november 29.",
+   "start": "2026-11-21",
+   "end": "2026-11-29",
+   "desc": "Karbantartás miatt a Budapest – Cegléd – Szolnok vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Cegléd – Szolnok line run according to a modified timetable.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_100a_kobanya-kispest_-_pestszentlorinc_1121-1129_v1110.pdf"
   },
   {
    "line": "106",
@@ -393,16 +413,6 @@
    "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v8_hirdetmeny_110_kobanya-kispest_1104-1212.pdf"
   },
   {
-   "line": "120",
-   "route": "Újszász – Szolnok – Békéscsaba",
-   "startRaw": "2026. november 4.",
-   "endRaw": "2026. december 12.",
-   "start": "2026-11-04",
-   "end": "2026-12-12",
-   "desc": "Karbantartás miatt a Budapest – Újszász – Szolnok – Békéscsaba vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Újszász – Szolnok – Békéscsaba line run according to a modified timetable.",
-   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v6_hirdetmeny_120_kobanya-kispest_1104-1212.pdf"
-  },
-  {
    "line": "120a",
    "route": "Újszász – Szolnok – Békéscsaba",
    "startRaw": "2026. november 4.",
@@ -411,6 +421,16 @@
    "end": "2026-12-12",
    "desc": "Karbantartás miatt a Budapest – Újszász – Szolnok – Békéscsaba vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Újszász – Szolnok – Békéscsaba line run according to a modified timetable.",
    "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v5_hirdetmeny_120a_kobanya-kispest_1104-1212.pdf"
+  },
+  {
+   "line": "120",
+   "route": "Újszász – Szolnok – Békéscsaba",
+   "startRaw": "2026. november 4.",
+   "endRaw": "2026. december 12.",
+   "start": "2026-11-04",
+   "end": "2026-12-12",
+   "desc": "Karbantartás miatt a Budapest – Újszász – Szolnok – Békéscsaba vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Újszász – Szolnok – Békéscsaba line run according to a modified timetable.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v6_hirdetmeny_120_kobanya-kispest_1104-1212.pdf"
   },
   {
    "line": "127",
@@ -451,6 +471,16 @@
    "end": "2026-12-12",
    "desc": "Karbantartás miatt a Békéscsaba – Kötegyán – Vésztő vasútvonalon a vonatok menetrendje módosul, Kötegyán – Vésztő között MÁVBUSZ-ok közlekednek. Due to reconstruction, trains on the Békéscsaba – Kötegyán – Vésztő railway line run according to a modified timetable, MÁVBUSZ services operate between Kötegyán and Vésztő.",
    "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mb_128_okany_sarkadkeresztur_mehkerek_47972.pdf"
+  },
+  {
+   "line": "128",
+   "route": "Békéscsaba – Kötegyán – Vésztő",
+   "startRaw": "2026. december 13.",
+   "endRaw": "2026. december 20.",
+   "start": "2026-12-13",
+   "end": "2026-12-20",
+   "desc": "Karbantartás miatt a Békéscsaba – Kötegyán – Vésztő vasútvonalon a vonatok menetrendje módosul, Kötegyán – Vésztő között MÁVBUSZ-ok közlekednek. Due to reconstruction, trains on the Békéscsaba – Kötegyán – Vésztő railway line run according to a modified timetable, MÁVBUSZ services operate between Kötegyán and Vésztő.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mb_128_okany_sarkadkeresztur_mehkerek_47972_0.pdf"
   },
   {
    "line": "130",
