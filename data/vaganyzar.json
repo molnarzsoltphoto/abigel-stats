@@ -1,5 +1,5 @@
 {
- "frissitve": "2026-11-25T22:39:33.984945+01:00",
+ "frissitve": "2026-11-26T09:12:51.396017+01:00",
  "forras": "https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vaganyzar",
  "tetelek": [
   {
@@ -304,16 +304,6 @@
   },
   {
    "line": "80",
-   "route": "Füzesabony – Eger",
-   "startRaw": "2026. november 9.",
-   "endRaw": "2026. november 25.",
-   "start": "2026-11-09",
-   "end": "2026-11-25",
-   "desc": "Karbantartás miatt a miskolci fővonalon egyes vonatok menetrendje módosul, valamint Füzesabony - Eger között egyes hajnali és éjszakai vonatok helyett MÁVBUSZ-ok közlekednek. Due to reconstruction works, certain trains on the Miskolc main line run according to a modified timetable. MÁVBUSZ services operate between Füzesabony and Eger instead of certain early-morning and late-night trains.",
-   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_80_87a_fuzesabony-mezokovesd_2026.11.09-11.25_v1029.pdf"
-  },
-  {
-   "line": "80",
    "route": "Szerencs – Sátoraljaújhely",
    "startRaw": "2026. november 27.",
    "endRaw": "2026. december 1.",
@@ -321,16 +311,6 @@
    "end": "2026-12-01",
    "desc": "Karbantartási munkák miatt Szerencs és Sátoraljaújhely között egyes vonatok helyett MÁVBUSZ-ok közlekednek. Due to track reconstruction works, MÁVBUSZ services operate between Szerencs and Sátoraljaújhely instead of certain trains.",
    "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_080_szegi_bodrogolaszi_web.pdf"
-  },
-  {
-   "line": "87a",
-   "route": "Füzesabony – Eger",
-   "startRaw": "2026. november 9.",
-   "endRaw": "2026. november 25.",
-   "start": "2026-11-09",
-   "end": "2026-11-25",
-   "desc": "Karbantartás miatt a miskolci fővonalon egyes vonatok menetrendje módosul, valamint Füzesabony - Eger között egyes hajnali és éjszakai vonatok helyett MÁVBUSZ-ok közlekednek. Due to reconstruction works, certain trains on the Miskolc main line run according to a modified timetable. MÁVBUSZ services operate between Füzesabony and Eger instead of certain early-morning and late-night trains.",
-   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_80_87a_fuzesabony-mezokovesd_2026.11.09-11.25_v1029_0.pdf"
   },
   {
    "line": "100",
@@ -391,16 +371,6 @@
    "end": "2026-12-31",
    "desc": "Új nyomvonalat kap a 106-os vasútvonal: az új pálya megépítéséig Debrecen–Nagykereki között pótlóbuszok szállítják az utasokat. The 106 railway line will get a new route: until the new track is built, replacement buses operate between Debrecen and Nagykereki.",
    "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/hirdetmeny_106_20251029_jav20260507.pdf"
-  },
-  {
-   "line": "108",
-   "route": "Füzesabony – Eger",
-   "startRaw": "2026. november 9.",
-   "endRaw": "2026. november 25.",
-   "start": "2026-11-09",
-   "end": "2026-11-25",
-   "desc": "Karbantartás miatt a miskolci fővonalon egyes vonatok menetrendje módosul, valamint Füzesabony - Eger között egyes hajnali és éjszakai vonatok helyett MÁVBUSZ-ok közlekednek. Due to reconstruction works, certain trains on the Miskolc main line run according to a modified timetable. MÁVBUSZ services operate between Füzesabony and Eger instead of certain early-morning and late-night trains.",
-   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v2_hirdetmeny_108_fuzesabony-mezokovesd_2026.11.09-11.25_v1029.pdf"
   },
   {
    "line": "110",
