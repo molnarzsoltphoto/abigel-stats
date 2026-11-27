@@ -1,5 +1,5 @@
 {
- "frissitve": "2026-11-26T22:28:37.779691+01:00",
+ "frissitve": "2026-11-27T09:25:05.872796+01:00",
  "forras": "https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vaganyzar",
  "tetelek": [
   {
@@ -191,16 +191,6 @@
    "end": "2026-12-09",
    "desc": "A Szombathely – Hegyeshalom vasútvonalon végzett pályakarbantartási munkák miatt a hirdetményen szereplő vonatok a fejlécükben megjelölt napokon módosított menetrend szerint közlekednek. Szombathely / Porpác – Csorna, illetve Répcelak - Csorna állomások között vonatpótló autóbuszok közlekednek a sárga alapon megjelölt módosított menetrend szerint.",
    "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/vaganyzari_hirdetmeny_2026.12.07-12.09_porpac-csorna_repcelak-csorna_vaganyzar_1620_vonali_szemelyvonati_hirdetmenye.pdf"
-  },
-  {
-   "line": "21",
-   "route": "Szombathely – Szentgotthárd",
-   "startRaw": "2026. november 25.",
-   "endRaw": "2026. november 26.",
-   "start": "2026-11-25",
-   "end": "2026-11-26",
-   "desc": "A Szombathely – Szentgotthárd vasútvonalon végzett pályakarbantartási munkák miatt a hirdetményen szereplő vonatok helyett Körmend – Szentgotthárd állomások között vonatpótló autóbuszok közlekednek a sárga alapon megjelölt menetrend szerint.",
-   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/vaganyzari_hirdetmeny_2026.11.25-11-26_kormend-szentgotthard_vaganyzar_21_vonali_hirdetmenye.pdf"
   },
   {
    "line": "25",
