@@ -1,5 +1,5 @@
 {
- "frissitve": "2026-11-27T22:14:59.030618+01:00",
+ "frissitve": "2026-11-28T08:43:58.132948+01:00",
  "forras": "https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vaganyzar",
  "tetelek": [
   {
@@ -323,26 +323,6 @@
    "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_080_szegi_bodrogolaszi_web.pdf"
   },
   {
-   "line": "100a",
-   "route": "Budapest – Cegléd – Szeged",
-   "startRaw": "2026. november 4.",
-   "endRaw": "2026. december 1.",
-   "start": "2026-11-04",
-   "end": "2026-12-01",
-   "desc": "Karbantartás miatt a Budapest – Cegléd – Záhony és a Budapest – Cegléd – Szeged vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Cegléd – Záhony and on the a Budapest – Cegléd – Szeged lines run according to a modified timetable.",
-   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_100a_kobanya-kispest_1104-1201_v1027.pdf"
-  },
-  {
-   "line": "100a",
-   "route": "Budapest – Cegléd – Szolnok",
-   "startRaw": "2026. november 21.",
-   "endRaw": "2026. november 29.",
-   "start": "2026-11-21",
-   "end": "2026-11-29",
-   "desc": "Karbantartás miatt a Budapest – Cegléd – Szolnok vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Cegléd – Szolnok line run according to a modified timetable.",
-   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_100a_kobanya-kispest_-_pestszentlorinc_1121-1129_v1110.pdf"
-  },
-  {
    "line": "100",
    "route": "Budapest – Cegléd – Szeged",
    "startRaw": "2026. november 4.",
@@ -371,6 +351,26 @@
    "end": "2026-12-12",
    "desc": "Karbantartás miatt a Budapest – Szolnok – Debrecen – Záhony vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Szolnok – Debrecen – Záhony line run according to a modified timetable.",
    "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v9_hirdetmeny_100_kobanya-kispest_1202-1212.pdf"
+  },
+  {
+   "line": "100a",
+   "route": "Budapest – Cegléd – Szeged",
+   "startRaw": "2026. november 4.",
+   "endRaw": "2026. december 1.",
+   "start": "2026-11-04",
+   "end": "2026-12-01",
+   "desc": "Karbantartás miatt a Budapest – Cegléd – Záhony és a Budapest – Cegléd – Szeged vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Cegléd – Záhony and on the a Budapest – Cegléd – Szeged lines run according to a modified timetable.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_100a_kobanya-kispest_1104-1201_v1027.pdf"
+  },
+  {
+   "line": "100a",
+   "route": "Budapest – Cegléd – Szolnok",
+   "startRaw": "2026. november 21.",
+   "endRaw": "2026. november 29.",
+   "start": "2026-11-21",
+   "end": "2026-11-29",
+   "desc": "Karbantartás miatt a Budapest – Cegléd – Szolnok vonalon egyes vonatok módosított menetrend szerint közlekednek. Due to reconstruction works, certain trains on the Budapest – Cegléd – Szolnok line run according to a modified timetable.",
+   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_100a_kobanya-kispest_-_pestszentlorinc_1121-1129_v1110.pdf"
   },
   {
    "line": "106",
@@ -421,16 +421,6 @@
    "end": "2026-12-02",
    "desc": "Karbantartási munkák miatt egyes esti és hajnali vonatok menetrendje módosul, Vésztő–Szeghalom között MÁVBUSZ-ok közlekednek. Due to reconstruction works, certain night trains and early morning trains run according to a modified timetable, MÁVBUSZ services operate between Vésztő and Szeghalom.",
    "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/v1_hirdetmeny_127_veszto_szeghalom_1130_1202.pdf"
-  },
-  {
-   "line": "128",
-   "route": "Püspökladány – Szeghalom",
-   "startRaw": "2026. november 24.",
-   "endRaw": "2026. november 27.",
-   "start": "2026-11-24",
-   "end": "2026-11-27",
-   "desc": "Karbantartási munkák miatt Püspökladány – Szeghalom között egyes délutáni és esti vonatok helyett MÁVBUSZ-ok közlekednek. Due to maintenance works, MÁVBUSZ services operate instead of certain afternoon and evening trains between Püspökladány and Szeghalom .",
-   "link": "https://www.mavcsoport.hu/sites/default/files/upload/line-lock/mavbusz_128_mh_trkp_38291_a4.pdf"
   },
   {
    "line": "128",
